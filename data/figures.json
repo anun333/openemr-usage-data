@@ -1,0 +1,243 @@
+{
+ "sourceforge.downloads.all_time": {
+  "value": 830898,
+  "what": "downloads from SourceForge, all time",
+  "source": {
+   "file": "sourceforge-all-time.json",
+   "url": "https://sourceforge.net/projects/openemr/files/stats/json?start_date=2002-01-01&end_date=2026-10-10",
+   "retrieved_utc": "2026-10-12T17:34:21+00:00",
+   "sha256": "a30422e50213dcfc3a4011bfeb027797986afc6d1fb892d44308eba31dfaba6a"
+  },
+  "published_in_t27117": "830,878 (usage doc)"
+ },
+ "sourceforge.top_countries.all_time": {
+  "value": [
+   "United States 28.2%",
+   "India 11.7%",
+   "Honduras 2.9%",
+   "Indonesia 2.4%",
+   "Mexico 2.2%",
+   "Philippines 2.0%",
+   "Nigeria 2.0%",
+   "Kenya 2.0%",
+   "Pakistan 1.8%",
+   "Brazil 1.5%"
+  ],
+  "what": "share of downloads whose country is known",
+  "source": {
+   "file": "sourceforge-all-time.json",
+   "url": "https://sourceforge.net/projects/openemr/files/stats/json?start_date=2002-01-01&end_date=2026-10-10",
+   "retrieved_utc": "2026-10-12T17:34:21+00:00",
+   "sha256": "a30422e50213dcfc3a4011bfeb027797986afc6d1fb892d44308eba31dfaba6a"
+  },
+  "published_in_t27117": null
+ },
+ "sourceforge.downloads.2025-10_to_2026-09": {
+  "value": 44790,
+  "what": "downloads from SourceForge, 2025-10 to 2026-09",
+  "source": {
+   "file": "sourceforge-2025-10-to-2026-09.json",
+   "url": "https://sourceforge.net/projects/openemr/files/stats/json?start_date=2025-10-01&end_date=2026-09-30",
+   "retrieved_utc": "2026-10-12T17:34:21+00:00",
+   "sha256": "33935909d55e77df6b7a80d25462ec670db0b96e07664d183691136fd2fcbfd2"
+  },
+  "published_in_t27117": "about 45,000"
+ },
+ "sourceforge.top_countries.2025-10_to_2026-09": {
+  "value": [
+   "United States 42.0%",
+   "India 7.8%",
+   "Pakistan 2.3%",
+   "Philippines 2.0%",
+   "Mexico 1.9%",
+   "Nigeria 1.9%",
+   "Kenya 1.6%",
+   "Argentina 1.6%",
+   "Egypt 1.5%",
+   "Brazil 1.4%"
+  ],
+  "what": "share of downloads whose country is known",
+  "source": {
+   "file": "sourceforge-2025-10-to-2026-09.json",
+   "url": "https://sourceforge.net/projects/openemr/files/stats/json?start_date=2025-10-01&end_date=2026-09-30",
+   "retrieved_utc": "2026-10-12T17:34:21+00:00",
+   "sha256": "33935909d55e77df6b7a80d25462ec670db0b96e07664d183691136fd2fcbfd2"
+  },
+  "published_in_t27117": "US 42%, India 8%, then Pakistan, the Philippines, Mexico, Nigeria, Kenya, Argentina, Egypt and Brazil"
+ },
+ "github.release_downloads.8_2_to_8_4_1": {
+  "value": {
+   "v8_4_1": 1528,
+   "v8_4_0": 1094,
+   "v8_3_0": 2209,
+   "v8_2_0": 7660
+  },
+  "what": "downloads of each release's assets from GitHub (all assets)",
+  "source": {
+   "file": "github-releases.json",
+   "url": "https://api.github.com/repos/openemr/openemr/releases?per_page=100",
+   "retrieved_utc": "2026-10-12T17:34:22+00:00",
+   "sha256": "d5a019cadee495dcdaf5208773f3ce5ff464cdcb517cc3154611c9f0bdd11cab"
+  },
+  "published_in_t27117": "1,100 to 7,600 per release (8.2.0 through 8.4.1)"
+ },
+ "github.repo": {
+  "value": {
+   "stars": 5518,
+   "forks": 3075
+  },
+  "what": "openemr/openemr on GitHub",
+  "source": {
+   "file": "github-repo.json",
+   "url": "https://api.github.com/repos/openemr/openemr",
+   "retrieved_utc": "2026-10-12T17:34:22+00:00",
+   "sha256": "1674b3f7422be70eefb6e40055ad43fe98f0efc7597d27d2b9f1ac02205d79a0"
+  },
+  "published_in_t27117": null
+ },
+ "dockerhub.pulls": {
+  "value": 9235882,
+  "what": "pulls of openemr/openemr (includes CI and automated pulls)",
+  "source": {
+   "file": "dockerhub-openemr.json",
+   "url": "https://hub.docker.com/v2/repositories/openemr/openemr/",
+   "retrieved_utc": "2026-10-12T17:34:22+00:00",
+   "sha256": "16b178adc0daff8953e0788343792f5bd400de3fb12fa045a2e7927e9d54a927"
+  },
+  "published_in_t27117": "9.2 million"
+ },
+ "mu.openemr_providers_ever": {
+  "value": {
+   "openemr": 239,
+   "all": 361763,
+   "percent": 0.066
+  },
+  "what": "distinct providers ever attesting with OpenEMR, program years 2011-2017",
+  "source": {
+   "file": "MU_REPORT.csv",
+   "url": "http://web.archive.org/web/20250314103603id_/https://www.healthit.gov/sites/default/files/data/datasets/MU_REPORT.csv",
+   "retrieved_utc": "2026-10-12T17:34:23+00:00",
+   "sha256": "772f8c0140d606e880dbf8a8a64964826d0489560a809d2d5bc4ac225069a831"
+  },
+  "published_in_t27117": "239"
+ },
+ "mu.openemr_peak": {
+  "value": {
+   "year": "2013",
+   "providers": 172
+  },
+  "what": "program year with the most OpenEMR attesters",
+  "source": {
+   "file": "MU_REPORT.csv",
+   "url": "http://web.archive.org/web/20250314103603id_/https://www.healthit.gov/sites/default/files/data/datasets/MU_REPORT.csv",
+   "retrieved_utc": "2026-10-12T17:34:23+00:00",
+   "sha256": "772f8c0140d606e880dbf8a8a64964826d0489560a809d2d5bc4ac225069a831"
+  },
+  "published_in_t27117": "172 in 2013"
+ },
+ "mu.header": {
+  "value": [
+   "NPI",
+   "CCN",
+   "Provider_Type",
+   "Business_State_Territory",
+   "ZIP",
+   "Specialty",
+   "Hospital_Type",
+   "Program_Type",
+   "Program_Year",
+   "Provider_Stage_Number",
+   "Payment_Year",
+   "Attestation_Month",
+   "Attestation_Year",
+   "MU_Definition_Year",
+   "Stage_2_Scheduled_2014",
+   "EHR_Certification_Number",
+   "EHR_Product_CHP_Id",
+   "Vendor_Name",
+   "EHR_Product_Name",
+   "EHR_Product_Version",
+   "Product_Classification",
+   "Product_Setting",
+   "Product_Certification_Edition_Yr"
+  ],
+  "what": "the file's column names (indices used above)",
+  "source": {
+   "file": "MU_REPORT.csv",
+   "url": "http://web.archive.org/web/20250314103603id_/https://www.healthit.gov/sites/default/files/data/datasets/MU_REPORT.csv",
+   "retrieved_utc": "2026-10-12T17:34:23+00:00",
+   "sha256": "772f8c0140d606e880dbf8a8a64964826d0489560a809d2d5bc4ac225069a831"
+  },
+  "published_in_t27117": null
+ },
+ "rwt.practices": {
+  "value": {
+   "2023": 9,
+   "2024": 14,
+   "2025": 6
+  },
+  "what": "US practices that sent a Real World Testing usage report",
+  "source": {
+   "files": [
+    {
+     "file": "rwt-2023.pdf",
+     "url": "https://www.open-emr.org/wiki/images/6/6b/2023-Real-World-Testing-Results-Report-OpenEMR.pdf",
+     "retrieved_utc": "2026-10-12T17:34:22+00:00",
+     "sha256": "837d8aabfe00393e23c658e7d50a283033fdfe074c1240cb871278fda56171a6"
+    },
+    {
+     "file": "rwt-2024.pdf",
+     "url": "https://www.open-emr.org/wiki/images/a/aa/2024-Real-World-Testing-Results-Report-OpenEMR.pdf",
+     "retrieved_utc": "2026-10-12T17:34:22+00:00",
+     "sha256": "d8dff722445ea8d6887b6587e94e61d84f4ebb9286ba219efac5235d406752d6"
+    },
+    {
+     "file": "rwt-2025.pdf",
+     "url": "https://www.open-emr.org/wiki/images/a/a8/2025-Real-World-Testing-Results-Report-OpenEMR.pdf",
+     "retrieved_utc": "2026-10-12T17:34:23+00:00",
+     "sha256": "9ec8c2e74f46987f0b84a7e199b1f2caf8f4fb728966d3b7b0ad120175e9ed8f"
+    }
+   ]
+  },
+  "published_in_t27117": "9 in 2023, 14 in 2024, 6 in 2025"
+ },
+ "translations.list_size": {
+  "value": 13234,
+  "what": "strings in the translation list (currentLanguage_utf8.sql)",
+  "source": {
+   "repository": "https://github.com/openemr/openemr",
+   "commit": "36b435a524c79c37675aa8c471eb36661d9538e3",
+   "files": {
+    "contrib/util/language_translations/currentLanguage_utf8.sql": "db9aa298b50bafd67b57bd9db5a3db7b6c04feb5",
+    "contrib/util/language_translations/currentConstants.txt": "0e96c8d61bc38dad27ff1099eb86e2abcb7fa36e"
+   }
+  },
+  "published_in_t27117": "13,234 (usage doc)"
+ },
+ "translations.strings_in_code": {
+  "value": 10889,
+  "what": "distinct literal strings passed to xl()/xlt()/xla() in the code (a lower bound)",
+  "source": {
+   "repository": "https://github.com/openemr/openemr",
+   "commit": "36b435a524c79c37675aa8c471eb36661d9538e3",
+   "files": {
+    "contrib/util/language_translations/currentLanguage_utf8.sql": "db9aa298b50bafd67b57bd9db5a3db7b6c04feb5",
+    "contrib/util/language_translations/currentConstants.txt": "0e96c8d61bc38dad27ff1099eb86e2abcb7fa36e"
+   }
+  },
+  "published_in_t27117": "roughly 10,900"
+ },
+ "translations.missing_from_list": {
+  "value": 2442,
+  "what": "of those, not in the translation list, so shown in English in every language",
+  "source": {
+   "repository": "https://github.com/openemr/openemr",
+   "commit": "36b435a524c79c37675aa8c471eb36661d9538e3",
+   "files": {
+    "contrib/util/language_translations/currentLanguage_utf8.sql": "db9aa298b50bafd67b57bd9db5a3db7b6c04feb5",
+    "contrib/util/language_translations/currentConstants.txt": "0e96c8d61bc38dad27ff1099eb86e2abcb7fa36e"
+   }
+  },
+  "published_in_t27117": "about 2,400"
+ }
+}

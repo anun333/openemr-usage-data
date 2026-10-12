@@ -1,0 +1,201 @@
+country,downloads,percent_of_located
+United States,18796,42.0
+India,3477,7.8
+Pakistan,1019,2.3
+Philippines,906,2.0
+Mexico,873,1.9
+Nigeria,860,1.9
+Kenya,719,1.6
+Argentina,709,1.6
+Egypt,658,1.5
+Brazil,618,1.4
+Ethiopia,607,1.4
+Germany,597,1.3
+United Kingdom,597,1.3
+Singapore,595,1.3
+Canada,466,1.0
+Ecuador,431,1.0
+Indonesia,411,0.9
+China,404,0.9
+Italy,374,0.8
+Spain,372,0.8
+Peru,357,0.8
+Algeria,349,0.8
+France,349,0.8
+Colombia,327,0.7
+Venezuela,285,0.6
+Viet Nam,283,0.6
+Netherlands,279,0.6
+Tanzania,233,0.5
+South Africa,229,0.5
+Saudi Arabia,229,0.5
+Uganda,221,0.5
+Ghana,215,0.5
+Bolivia,207,0.5
+Chile,204,0.5
+Iraq,194,0.4
+Dominican Republic,191,0.4
+Greece,186,0.4
+Morocco,178,0.4
+Syria,173,0.4
+Bangladesh,171,0.4
+Australia,166,0.4
+Turkey,166,0.4
+Tunisia,157,0.4
+Korea,155,0.3
+Russia,155,0.3
+Honduras,154,0.3
+Puerto Rico,149,0.3
+United Arab Emirates,146,0.3
+Malaysia,143,0.3
+Afghanistan,139,0.3
+Ireland,136,0.3
+Japan,124,0.3
+Romania,121,0.3
+Poland,119,0.3
+Sri Lanka,118,0.3
+Yemen,115,0.3
+Guatemala,105,0.2
+Iran,100,0.2
+Lebanon,99,0.2
+Cameroon,99,0.2
+Hong Kong,94,0.2
+Jordan,92,0.2
+Thailand,91,0.2
+Myanmar,90,0.2
+Congo - Kinshasa,89,0.2
+Sudan,84,0.2
+Nepal,83,0.2
+El Salvador,79,0.2
+Finland,78,0.2
+Uzbekistan,78,0.2
+Panama,77,0.2
+Mozambique,77,0.2
+Ivory Coast,75,0.2
+Albania,73,0.2
+Portugal,72,0.2
+Libya,68,0.2
+Jamaica,68,0.2
+Serbia,66,0.1
+Somalia,64,0.1
+Paraguay,64,0.1
+Madagascar,63,0.1
+Nicaragua,61,0.1
+Zimbabwe,61,0.1
+Israel,61,0.1
+Austria,60,0.1
+Belgium,59,0.1
+Trinidad and Tobago,59,0.1
+Cyprus,56,0.1
+Taiwan,53,0.1
+Cambodia,53,0.1
+Ukraine,48,0.1
+Botswana,46,0.1
+Suriname,43,0.1
+Senegal,42,0.1
+Switzerland,41,0.1
+Angola,41,0.1
+Mali,41,0.1
+Bahrain,41,0.1
+Haiti,39,0.1
+Qatar,39,0.1
+Costa Rica,38,0.1
+Palestinian Territory,38,0.1
+Sweden,38,0.1
+Guyana,36,0.1
+Zambia,34,0.1
+Papua New Guinea,34,0.1
+Azerbaijan,33,0.1
+Hungary,30,0.1
+New Zealand,28,0.1
+Malawi,28,0.1
+Czech Republic,26,0.1
+Benin,26,0.1
+Uruguay,26,0.1
+Mauritania,25,0.1
+Niger,23,0.1
+Bulgaria,22,0.0
+Kuwait,22,0.0
+Bosnia and Herzegovina,22,0.0
+Oman,22,0.0
+Lao People's Democratic Republic,21,0.0
+Latvia,21,0.0
+Mauritius,21,0.0
+Sierra Leone,21,0.0
+Kazakhstan,20,0.0
+Cayman Islands,20,0.0
+Djibouti,19,0.0
+Croatia,18,0.0
+Liberia,18,0.0
+Norway,17,0.0
+Slovakia,17,0.0
+Gabon,16,0.0
+Rwanda,16,0.0
+Mongolia,16,0.0
+Republic of Congo,14,0.0
+Barbados,14,0.0
+Malta,14,0.0
+Georgia,13,0.0
+Macao,13,0.0
+Armenia,12,0.0
+Guinea,11,0.0
+Lithuania,11,0.0
+Belize,11,0.0
+Togo,10,0.0
+Timor-Leste,10,0.0
+Fiji,10,0.0
+Lesotho,10,0.0
+Burkina Faso,9,0.0
+Saint Lucia,9,0.0
+Comoros,9,0.0
+Eritrea,9,0.0
+Maldives,9,0.0
+Seychelles,8,0.0
+Gambia,8,0.0
+South Sudan,7,0.0
+CW,7,0.0
+Bahamas,7,0.0
+Micronesia,7,0.0
+Swaziland,7,0.0
+Andorra,6,0.0
+Moldova,6,0.0
+Estonia,6,0.0
+Belarus,6,0.0
+XK,6,0.0
+Denmark,6,0.0
+Equatorial Guinea,5,0.0
+Macedonia,5,0.0
+Burundi,5,0.0
+Slovenia,5,0.0
+Kyrgyzstan,5,0.0
+French Polynesia,5,0.0
+Chad,5,0.0
+Reunion,5,0.0
+Iceland,4,0.0
+New Caledonia,4,0.0
+Namibia,4,0.0
+Grenada,4,0.0
+Guadeloupe,4,0.0
+Antigua and Barbuda,4,0.0
+Samoa,3,0.0
+Luxembourg,3,0.0
+Guam,3,0.0
+Solomon Islands,3,0.0
+Aruba,3,0.0
+Saint Vincent and The Grenadines,3,0.0
+Saint Kitts and Nevis,3,0.0
+Liechtenstein,2,0.0
+Unknown,2,0.0
+Cape Verde,2,0.0
+Marshall Islands,2,0.0
+Vanuatu,2,0.0
+Bermuda,2,0.0
+Montenegro,1,0.0
+Martinique,1,0.0
+Virgin Islands,1,0.0
+Åland Islands,1,0.0
+American Samoa,1,0.0
+San Marino,1,0.0
+Dominica,1,0.0
+Central African Republic,1,0.0
+Brunei Darussalam,1,0.0

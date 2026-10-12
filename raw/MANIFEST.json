@@ -1,0 +1,94 @@
+{
+ "sources": [
+  {
+   "file": "sourceforge-all-time.json",
+   "url": "https://sourceforge.net/projects/openemr/files/stats/json?start_date=2002-01-01&end_date=2026-10-10",
+   "retrieved_utc": "2026-10-12T17:34:21+00:00",
+   "http_status": 200,
+   "bytes": 33525,
+   "sha256": "a30422e50213dcfc3a4011bfeb027797986afc6d1fb892d44308eba31dfaba6a",
+   "what": "SourceForge download statistics, all time"
+  },
+  {
+   "file": "sourceforge-2025-10-to-2026-09.json",
+   "url": "https://sourceforge.net/projects/openemr/files/stats/json?start_date=2025-10-01&end_date=2026-09-30",
+   "retrieved_utc": "2026-10-12T17:34:21+00:00",
+   "http_status": 200,
+   "bytes": 16968,
+   "sha256": "33935909d55e77df6b7a80d25462ec670db0b96e07664d183691136fd2fcbfd2",
+   "what": "SourceForge download statistics, October 2025 to September 2026"
+  },
+  {
+   "file": "github-releases.json",
+   "url": "https://api.github.com/repos/openemr/openemr/releases?per_page=100",
+   "retrieved_utc": "2026-10-12T17:34:22+00:00",
+   "http_status": 200,
+   "bytes": 177729,
+   "sha256": "d5a019cadee495dcdaf5208773f3ce5ff464cdcb517cc3154611c9f0bdd11cab",
+   "what": "GitHub releases of openemr/openemr with asset download counts"
+  },
+  {
+   "file": "github-repo.json",
+   "url": "https://api.github.com/repos/openemr/openemr",
+   "retrieved_utc": "2026-10-12T17:34:22+00:00",
+   "http_status": 200,
+   "bytes": 6421,
+   "sha256": "1674b3f7422be70eefb6e40055ad43fe98f0efc7597d27d2b9f1ac02205d79a0",
+   "what": "GitHub repository counters (stars, forks)"
+  },
+  {
+   "file": "dockerhub-openemr.json",
+   "url": "https://hub.docker.com/v2/repositories/openemr/openemr/",
+   "retrieved_utc": "2026-10-12T17:34:22+00:00",
+   "http_status": 200,
+   "bytes": 11681,
+   "sha256": "16b178adc0daff8953e0788343792f5bd400de3fb12fa045a2e7927e9d54a927",
+   "what": "Docker Hub counters for openemr/openemr (pulls include CI and automation)"
+  },
+  {
+   "file": "rwt-2023.pdf",
+   "url": "https://www.open-emr.org/wiki/images/6/6b/2023-Real-World-Testing-Results-Report-OpenEMR.pdf",
+   "retrieved_utc": "2026-10-12T17:34:22+00:00",
+   "http_status": 200,
+   "bytes": 139701,
+   "sha256": "837d8aabfe00393e23c658e7d50a283033fdfe074c1240cb871278fda56171a6",
+   "what": "OpenEMR Real World Testing results report 2023, from the OpenEMR wiki"
+  },
+  {
+   "file": "rwt-2024.pdf",
+   "url": "https://www.open-emr.org/wiki/images/a/aa/2024-Real-World-Testing-Results-Report-OpenEMR.pdf",
+   "retrieved_utc": "2026-10-12T17:34:22+00:00",
+   "http_status": 200,
+   "bytes": 213234,
+   "sha256": "d8dff722445ea8d6887b6587e94e61d84f4ebb9286ba219efac5235d406752d6",
+   "what": "OpenEMR Real World Testing results report 2024, from the OpenEMR wiki"
+  },
+  {
+   "file": "rwt-2025.pdf",
+   "url": "https://www.open-emr.org/wiki/images/a/a8/2025-Real-World-Testing-Results-Report-OpenEMR.pdf",
+   "retrieved_utc": "2026-10-12T17:34:23+00:00",
+   "http_status": 200,
+   "bytes": 175732,
+   "sha256": "9ec8c2e74f46987f0b84a7e199b1f2caf8f4fb728966d3b7b0ad120175e9ed8f",
+   "what": "OpenEMR Real World Testing results report 2025, from the OpenEMR wiki"
+  },
+  {
+   "file": "MU_REPORT.csv",
+   "url": "http://web.archive.org/web/20250314103603id_/https://www.healthit.gov/sites/default/files/data/datasets/MU_REPORT.csv",
+   "retrieved_utc": "2026-10-12T17:34:23+00:00",
+   "http_status": 200,
+   "bytes": 476153197,
+   "sha256": "772f8c0140d606e880dbf8a8a64964826d0489560a809d2d5bc4ac225069a831",
+   "what": "CMS/ONC 'EHR Products Used for Meaningful Use Attestation' (archived 2025-03-14)"
+  }
+ ],
+ "openemr_source": {
+  "repository": "https://github.com/openemr/openemr",
+  "commit": "36b435a524c79c37675aa8c471eb36661d9538e3",
+  "files": {
+   "contrib/util/language_translations/currentLanguage_utf8.sql": "db9aa298b50bafd67b57bd9db5a3db7b6c04feb5",
+   "contrib/util/language_translations/currentConstants.txt": "0e96c8d61bc38dad27ff1099eb86e2abcb7fa36e"
+  },
+  "note": "translation figures are computed from these files and from the source tree at this commit"
+ }
+}

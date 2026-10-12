@@ -1,0 +1,2442 @@
+
+ Prescription 
+%1$s pharmacies, last updated %2$s - refresh recommended
+%1$s pharmacies, updated %2$s
+(If selected, you will only be shown as available for this category)
+(One Only)
+([ctrl] + click or [cmd] + click on Mac to select multiple)
+-- Select --
+-- Select Provider --
+...
+0 = No risk, ≥1 = At risk
+1 time a week
+2 Year College or Vocational Degree
+2-3 times a week
+2026 Real World Testing Report
+30-90-365
+3rd Party API Access
+4-5 times a week
+7th{{every}}
+8th{{every}}
+9th{{every}}
+A JSON Web Key Set URI or inline JSON Web Key Set is required for System Scopes
+A MIPS eligible clinician must have reasonable certainty of receipt of the summary of care document by the receiving clinician
+A MIPS eligible clinician must verify that the fields for current problem list, current medication list, and current medication allergy list are not blank and include the most recent information known by the MIPS eligible clinician as of the time of generating the summary of care document or include a notation of no current problem, medication and/or medication allergies
+A Portal Patient has uploaded new documents titled
+A Questionnaire repository id is required.
+A Reminder for You
+A little bit
+A name must be entered. Try again.
+A system error occurred
+A system error occurred in updating your content. Please try again. If the problem persists, please contact the system administrator.
+A valid FHIR object or array must be specified.
+A valid UDI has not been processed yet
+ACS 6-item set
+AMC Full Report
+AMC Requires
+AMC-2015
+API Access
+API Client
+API Credentials were not generated
+API Token
+API requests by patients
+API requests by users
+API requests for resource
+AR{{abbr Autorefraction acuity}}
+Accent or Language
+Accept Results
+Access Denied
+Access denied! Module not enabled
+Access denied. Please check your permissions.
+Access or retrieve an existing record
+Access the documentation by clicking the link below
+Access to Healthy Food
+Accession
+Account API Key
+Account API Key - Recommended
+Account Actions
+Account Credentials
+Account Fax Number
+Account Id issued for Ensora eRx service, used to separate multi-facility accounts.
+Account Name issued for Ensora eRx service.
+Account Password
+Account Password issued for Ensora eRx service.
+Account Portal
+Account Sending Number
+Account Username
+AccountNumber
+Acknowledge Lab Results
+Active FHIR Questionnaires available from the repository. Dashboard launches are saved as patient assessments.
+Active Members
+Active Routes
+Activities
+Activities From Date
+Activity Status Log
+Add Health Concerns
+Add Patient Name To Window Title
+Add Prior Auth
+Add Related Health Concerns
+Add Related Person
+Add Selected Concerns
+Add Specimen
+Add Team Member
+Add a note for the recipient or cover sheet if supported. Double click to use Text Templates if enabled.
+Add new category : 
+Addiction with Self or Family
+Additional Interventions (Manual)
+Additionally Filter by Zipcode(takes precedence), State OR City and State with Local or Statewide Coverage.
+Address 1
+Address 2
+Address List
+Address Verify
+Adds the patient name to the end of the window title.
+Admin Settings Successfully Validated and Saved!
+Administrator
+Advanced Degree, Masters or Doctorate
+Affordable Custom EHR
+After Appointment
+After you have finished entering all the ICD 10 codes go to Administration > Lists and select 'Code Types' from the dropdown box. Select 'ICD10 Diagnosis' from the last dropdown box under ICD 10
+Afterwards you may continue and no other action is required by you.
+All EP/EC Group Calculation
+All Services
+All User Types
+All apps Auto Approved
+Allocated Units
+Allow (Recommended)
+Allow Insurances in Patient Profile
+Allow Linking/Adding Issues on Encounter
+Allow Online Appointments View Only.
+Allow Online Custom Content Report
+Allow Patient Billing Summary Report Online
+Allow Patient Uploads from Portal Documents
+Allow Patient only to view appointments online. Overrides the above setting to allow only view of appointments.
+Allow Patient to use Custom Content Report.
+Allow email sending of prescriptions
+Allow insurance eligibility checks using an X12 Partner
+Allow issues to be linked or added to an encounter
+Allow this user to use primary account credentials
+Allowed Grant Types
+Allowed password grant for
+Almost every day
+Already Linked
+Also Patient
+Alt Country
+Amendment Add
+Amendment Edit
+Amendment Print
+An ERA file with the name
+An array of parent resources was expected.
+An error occurred loading the observation form
+An error occurred loading the observation list
+An error occurred saving the observation
+An error occurred signing the form
+An error occurred while registering your application
+An error occurred while saving health concerns.
+An error occurred while trying to create a new observation form. Please try again later.
+An error occurred while trying to render this form. Please try again later.
+An error was encountered.
+An internal error occurred while processing your request.
+An unexpected error occurred
+Another imported document duplicates
+Any part of the document name
+Applicable Failed Logins
+Applicable MFA Failed Logins
+Application Context
+Application Type
+Application is requesting access to all data in entire system for this resource
+Application is requesting access to all patient data for this resource you have access to
+Apply Filters
+Apply unallocated pre-payments here
+Appointment Advance Notification (Hours)
+Appointment ID
+Appointment statuses that mean the appointment is cancelled or rescheduled. MedEx sends no reminders for these appointments and withdraws messages already queued. Add any custom statuses your practice uses for this.
+Appointments Advance Notify (Hours)
+Approval settings for 3rd party app/api access
+Appt Comment
+Are you a primary caregiver for any of the following? Check all that apply.
+Are you a refugee?
+Are you sure you want to close this session?
+Are you sure you want to delete this sub-observation?
+Are you sure you want to remove the questionnaire link?
+Are you sure you wish to inactivate this address?
+Are you sure you wish to inactivate this contact information?
+Are you sure you wish to inactivate this relationship?
+Assessment Date
+Assessment History
+Assessment Information
+Assessment completed for
+Assessments
+Assessor
+Assign Alternate Pharmacy
+Assign Primary Pharmacy
+Assigned Alternate
+Assigned Default Facility
+Assigned Pharmacies
+Assigned Primary
+Assigning Authority
+Associated Messages in thread.
+At risk
+At the foot of the page only
+At the top of the page and at the foot of the page
+At the top of the page only
+Attach and send to an email Address.
+Attaching Fax Id
+Attachment
+Audit Logging Lab Results
+Audit Logging user page history.
+Authentication Failed! Contact administrator.
+Authorization Number
+Auths
+Auto Blocked
+Auto Save On and in addition, Primary Admin section must be validated!
+Auto Save On for Facility Weno Location.
+Auto Save On for Weno UID.
+Auto Saved!
+Auto-calculated
+Autoblock ends on
+Automated Measure Calculations (AMC) - 2015
+Automated Measure Calculations are used for reporting measures in the USA to CMS
+Automated Measures Calculation (AMC) Help
+Automated Measures Calculation Help
+Available Assessments
+Available Modules
+Avulsion medial malleolus 
+Bachelors Degree
+Back to Messages
+Back to Summary
+Background Services (Convenience)
+Bankruptcy
+Banks or Finance Services
+Based on the SDOH assessment, the following health concerns may be relevant for this patient. Select any that apply:
+Be Patient. Dialog will close when finished loading.
+Be aware that the AMC Detailed Report can take a long time to generate if the period selected includes a large amount of patient data
+Before Appointment
+Before Expires
+Begin Date and Time
+Behavioral Health
+Being so restless that it\'s hard to sit still
+Billing Note for 
+Billing Summary
+Billing Type is required but not selected!
+Billing Units
+Billing units must be a whole number greater than zero.
+Birth of a child
+Birthday Alert
+Both the Eligible Individual Clinician (EC) calculation method and the Eligible Group Clinician calculation method are supported
+Both your client (browser) and the server are both communicating via SSL
+Bottom Left
+Bottom Right
+Bottom of Form
+Box 10 D. Claim Codes (Designated by NUCC)
+Box 22. Resubmission Code
+Box 22a. Original Ref. No.
+Building Document
+Building report
+Bulk Assign
+CAMOS Note Generator
+CAMOS Template Curator
+CCD Document Section Display Order
+CCD/CCR/CCDA Documents must be in a xml or pdf format in order to send via Direct
+CCDA MDHT Validation API Server Address
+CCDA conformance and validation API service URL. For testing (using ONLY test data) you can default to http://ccda.healthit.gov which should not be used to transmit PHI. Production sites can deploy their own by following instructions here https://github.com/onc-healthit/reference-ccda-validator.
+CC{{abbr Acuity with current Correction}}
+CDA generation service is disabled. Verify in Administration->Globals.
+CDA stylesheet not found
+CHEST
+CPTs
+CQM OID Value Set
+CQM Source of Payment
+CR{{abbr Cycloplegic Refraction acuity}}
+CSV file is empty
+CSV file not found
+CTL{{abbr Contact Lens Refraction acuity}}
+CV
+Call
+Call Event Tracking (RingCentral Webhook)
+Call event tracking is off. Enable it in Voice setup and save before registering.
+Can not continue
+Can not find encounter form.
+Candidates scanned
+Cannot create ERA directory
+Cannot find 
+Cannot find postscript document reference in 
+Cannot open 
+Car Loan or License
+Car, van, or mobile home
+Care Experience Preferences
+Care Planning
+Care Team Name
+Care Team Status
+Caregiver Burden
+Caregiver Status
+Caregiver for Children 5 to 12
+Caregiver for Children Under 5
+Caregiver for Children over 12
+Caregiver for Disabled or Ill Adult
+Caregiver for Elderly
+Caregiver for Other
+Caregiver for Special Needs Child
+Careplan Document Section Display Order
+Cell or Home Phone Missing, From the Patient Chart select Demographics select Contact.
+Change in Appetite
+Change the appointment status in order to launch this session again.
+Chart Success
+Chart fax or Create patient and chart fax to documents.
+Check New Trusted Messages
+Check new messages failed. Check the server logs for more information.
+Check or Reference Number is required for this payment method.
+Check the post_max_size and upload_max_filesize settings in %s.
+Check the server logs for more details
+Check the system error logs for more information.
+Check this if you do not want to allow the appointments comment as the visit reason when auto-creating new encounter for appointment.
+Checking Sync Report, please wait! Prescriptions may not be ready for 30 minutes or more.
+Checking if patient is setup for telehealth appointment...
+Checking the lock checkbox will prevent any further edits on any forms in this encounter.
+Child Care or School
+Child moving out
+Children age 5 to 12
+Children over 12
+Children under 5
+Choose PDF language Preference
+Choose a document to attach
+Choose a patient
+Choose automatic theme selection or always use the light or dark Questionnaire theme.
+Choose not to answer
+Choose the Provider you wish to run for the calculation
+Choose the promotion period for the calculation by setting the begin and end date for the report
+Cigarette Pack Years
+Cigarette pack-years (Number of packs per day multiplied by number of years smoked)
+Citizenship
+City Missing, From the Patient Chart select Demographics select Contact.
+Claim 
+Classification Type
+Clear IP Failed-Login Counter on Successful Authentication
+Clear primary user selection
+Click Here to get credentials after subscribing
+Click Save to create a new line with a Name of Well Woman Tests preceded by a vertical line indicating that it has no descendants or children
+Click for Setup Help
+Click here to Edit the Manufacturer List
+Click here to add one or more specimens for this test
+Click here to pay
+Click here to provide an explanation for procedure order (or why an order was not performed)
+Click link to complete document.
+Click link to run application.
+Click newly shown top Reset button to reset your account encryption key.
+Click on the File menu item on the top left of the Message center page and select Setup MedEx
+Click or change focus to dismiss
+Click to contract page to center view
+Click to edit in editor.
+Click to expand page to full width
+Click to get current history.
+Click to refresh using current date range. Refreshing just this tab.
+Click to save current order details and exit.
+Click to save current order details then continue working.
+Click to transmit the order. Order will be saved prior to sending.
+Clickatell
+Clickatell SMS
+Client ID for USPS API v3
+Client Secret
+Client Secret for USPS API v3
+Client Site ID
+Clinic Email
+Close without saving
+Clothing
+Code is required
+Code set load successful.
+Codes inserted: %1$d, codes updated: %2$d
+Comlink Telehealth Module Instructions
+Comment from provider
+Compendium Download Date
+Compendium Install
+Compendium Install Complete
+Compendium Update Date
+Completely disable the translation engine. When enabled, xl() returns the input string unchanged. Use this for English-only deployments to eliminate translation overhead.
+Compose New Email
+Compose Trusted Direct Message
+Confidence
+Confidential clients must be able to securely safeguard a secret.
+Configure Primary
+Configure Widget Visibility
+Configure Widgets
+Configure where LOINC statement should be displayed
+Confirm New Patient
+Confirm Session Close
+Confirmed Recipient Received Summary of Care?
+Consider setting a primary user for better security control.
+Console errors
+Contact by Email with Resources
+Contact by Phone with Resources
+Contact support if you continue to have issues
+Contact through Patient Portal with Resources
+Contact with Resources via Other
+Context locked by administrator
+Contexts
+Contrast{{Contrast Visual Acuity}}
+Controls PHP error display/debug behavior without overriding server defaults unless explicitly selected.
+Convenience feature for assigning pharmacy without having to edit Demographic Choices. By clicking the label or pharmacy name, you may select a pharmacy from a list of all currently assigned pharmacies of patients. The selected pharmacy will then be assigned to current patient.
+Copay or Deductible is too high
+Copy Fax Id
+Copy Fax to Patient
+Copy and Paste JWT
+Copy your subscription ID / Profile ID for obtaining your telehealth credentials
+Could not create directory
+Could not find authenticated user
+Could not read disk space
+Could not retrieve fax
+Could not successfully communicate with telehealth servers.  Check that your Telehealth configuration settings are valid.
+Could not verify settings
+Create CCR
+Create Date(Utc)
+Create Encounter Questionnaires
+Create JWT
+Create Lab Route
+Create New Context
+Create Route
+Create a Clinical Summary of Care Document (CCD) or retrieve the most current CCD
+Create a document reference for resource type
+Create and Run
+Create new records
+Create or modify
+Created (UTC)
+Created At
+Creating New Patient.
+Creating a Custom Favorite Group to order frequently ordered tests together 
+Creating...
+Credentials save is successful.
+Credit Cards
+Criminal History
+Critical error, so exiting
+Current Adherence to Medication
+Current Context
+Current Encounter
+Current Facility/Location
+Current Targets
+Currently Autoblocked
+Currently inbox is empty.
+Custom Favorite Group - to group individual tests 
+Customer Account Number
+DORN - Lab Pending Results
+DORN - Lab Pending or Queued Orders
+DORN - Lab Search and Setup
+DORN - Primary Setup
+DORN - Routes
+DORN Compendium Install
+DORN Configuration
+DORN Lab Integration
+DORN Lab Route Configuration
+DORN Lab Setup
+DORN Order Transaction.
+DORN Orders
+DORN Pending Results
+DORN Primary Config
+DOW
+Dark
+Dashboard Context Manager
+Dashboard Contexts
+Datatype is missing required key
+Date Asserted
+Date Observed
+Date and time of this result
+Date and time when the EULA was accepted (UTC timezone)
+Date is required
+Date of Birth Missing, From the Patient Chart select Demographics select Who.
+Date of Last Review or Update
+Date of Signature
+Date when service should be performed
+Death of a loved one
+Debt for Car Loan or Tickets
+Debt for Credit Cards
+Debt for Legal Issues
+Debt for Medical Bills
+Debt for Other
+Debt for Rent or Mortgage
+Debt for Student Loans
+Debt for Taxes
+Debt for Utilities or Phone
+Debug information has been generated. Click below to download.
+Decision Support Intervention Service
+Decode Authentication Failed! Contact administrator.
+Decryption failed! The Encryption key is incorrect
+Default (You)
+Default Billing Facility
+Default Context
+Default Document Section Display Order
+Default Patient Country sent to Ensora eRx, only if patient country is not set.
+Default form width of Questionnaire display.
+Default units when the related HCPCS code is added to a fee sheet
+Delayed Medical Care due to High Copay or Deductible
+Delayed Medical Care due to Inflexible Work Schedule
+Delayed Medical Care due to Lack of Trust in Provider
+Delayed Medical Care due to No Childcare
+Delayed Medical Care due to No Insurance
+Delayed Medical Care due to No Provider Available
+Delayed Medical Care due to Not Understanding Care Plan
+Delayed Medical Care due to Other
+Delayed Medical Care due to Specified Care Not Covered
+Delete Categories with ID(s) : 
+Delete Note
+Delete Record
+Delete fax
+Delete records
+Delete this fax document
+Demo Mode
+Denied password grant for
+Depending on whether or not Ensora eRx module is enabled the method of entry will vary
+Description is required
+Description is required for the selected sub-observation
+Determine the width of the primary logo compared to the container
+Determine the width of the secondary logo compared to the container
+Diagnosis: 
+Did not understand provider recommendations
+Digital Prescription Information
+Direct Send (MyMailer::send)
+Disability Self or Family
+Disability Status
+Disable All CDA conformance and validation services to improve import performance
+Disable All import CDA Validation Reporting
+Disable Translation Engine
+Disabled Authorization Flow Skip
+Disabled or Ill Adult
+Disabled or not Created.
+Discharged from Armed Services
+Discriminated at Work
+Discriminated in Banking or Finance Services
+Discriminated in Education 
+Discriminated in Government
+Discriminated in Health Care
+Discriminated in Housing 
+Discriminated in Law Enforcement
+Discriminated in Other
+Discriminated in Public(Shopping, Dining, Walking)
+Discriminated in Religious or Civic Clubs or Organizations
+Discrimination
+Discrimination for Accent or Language
+Discrimination for Age
+Discrimination for Citenzenship Status
+Discrimination for Criminal History
+Discrimination for Disability
+Discrimination for Education Level
+Discrimination for Gender
+Discrimination for Gender Expression
+Discrimination for Marital Status
+Discrimination for Other
+Discrimination for Race and/or Ethnicity
+Discrimination for Religion
+Discrimination for Sexual Preference
+Discrimination for Socioeconomic Status
+Discrimination for Weight
+Dispense Drug
+Display Current Runtime Reporting
+Display Errors Only
+Display Errors and Warnings Only
+Display LOINC note on questionnaires
+Display Window Console Errors
+Display of authorization code
+Display old exam findings and copy forward if desired
+Display the Discharge Disposition option on the Encounter form
+Display the Ordering Provider option on Encounters
+Display the Referring Provider option on Encounters
+Divorce or separation
+Do Not Contact With Resources
+Do not display Allergies uploaded after visiting Ensora eRx.
+Do not display Ensora eRx Allergy uploaded
+Do not display Ensora eRx Medications uploaded
+Do not display Medications uploaded after visiting Ensora eRx.
+Do not display the note
+Do you feel safe walking and living in your neighborhood?
+Do you or a family member owe money that you struggle to pay back? Check all that apply.
+Do you or any of your family members have a disability?
+Do you want to overwrite the existing file?
+Document Finder
+Document and Forms Activity
+Document was uploaded to remote storage
+Documents and Forms
+Does your application include any Decision Support Intervention (DSI)?
+Domain
+Done!
+Dorn
+Download Debug File
+Download Log History
+Download On File Documents
+Download Selected Documents
+Download and delete fax
+Download debug information to send to Weno support.
+Download fax document
+Due Date & Priority
+Duplicate demographics and components for MRN
+Duplication Check
+ENT
+EULA
+EULA Acceptance Date & Time (UTC)
+EULA Accepter Full Name
+EULA Version
+EXT
+EYE
+Each Report Column is explained below
+Edit Configuration
+Edit Form
+Edit Pending Changes.
+Edit Profile
+Edit Questionnaire
+Edit Rule Source Attributes
+Edit or Add Procedure Provider
+Edit/Add Drug
+Edit/Add Event
+Edit/Add Lot
+Edit/Add Procedure Provider
+Edit/Record Disclosure
+Editing Service Credentials for User
+Education Level
+Ehi Exporter Module
+Elderly
+Electronic Health Information Export
+Elevated or Toxic Stress
+Eligible Clinician eCQM Performance Period
+Eligible Group Clinician (EC) calculation method
+Eligible Individual Clinician (EC) calculation method
+Email Failed
+Email Requests
+Email Sales
+Email Send Test
+Email Support
+Email failed to send.
+Email is not allowed or not configured for this patient
+Email sent.
+Email successfully sent.
+Email support
+Emergency
+Employment
+Employment Insecurity: Disabled
+Employment Insecurity: Looking for Work
+Employment Insecurity: Retired
+Employment Insecurity: Seasonal or Migrant
+Employment Insecurity: Temporary
+Employment Status
+Empty Report. No QDM content.
+Enable Accounts
+Enable Auto Portal log in for presenting document to patient.
+Enable C-CDA Documents
+Enable CCDA conformance and validation API service
+Enable Encryption of Data Stored in the Database (Keep on unless DB server is encrypted)
+Enable Encryption of Items Stored on Drive/CouchDB (Strongly recommend keeping this on)
+Enable Ensora eRx Service
+Enable Ensora eRx Service.
+Enable Ensora eRx import status message
+Enable Fax Module
+Enable Insurance Eligibility
+Enable Mail Client
+Enable OpenEMR FHIR System Scopes (Turn on only if you know what you are doing)
+Enable OpenEMR SMART ON FHIR Context Test Launches (Turn on only if you know what you are doing)
+Enable OpenEMR SMART ON FHIR Current Context Test Launches.
+Enable SMS Module
+Enable Send SMS Dialog
+Enable Services
+Enable Swap Secondary Insurance Editing Demographics
+Enable User Permission Management (Recommended)
+Enable User Permission Management. Allows setting individual user access to modules.
+Enable Voice (RingCentral) before turning on call event tracking.
+Enable Voice Widgets
+Enable Weno eRx Service Test Mode
+Enable Weno eRx Service Test mode. This option will automatically include test pharmacies in your pharmacy download
+Enable Weno eRx Service Test mode. This option will automatically include test pharmacies in your pharmacy download.
+Enable adding unmatched code from insurance company to billing table
+Enable an OAuth2 Client application to be configured to skip the login screen and the scope authorization screen if the user is already logged into the EHR.
+Enable call event tracking
+Enable email option (available on prescriptions list screen) for emailing prescriptions
+Enable help under your User Menu > Settings > Features > Enable Help Modal
+Enable import status message after visiting Ensora eRx.
+Enable logging of HTTP page requests as the user utilizes the web interface.
+Enable logging of lab result activities.
+Enable swap secondary insurance
+Enabled Authorization Flow Skip
+Enabled to Run.
+Enables the ability for patient to upload documents to Documents Onsite Patient category.
+Encounter code was not provided. Encounter reason is unknown.
+Encounter questionnaires cannot be edited from the patient assessment workspace.
+Encounter questionnaires cannot be updated from the patient assessment workspace.
+Encounters during period
+Encryption Reset
+Encryption key issued by Weno eRx service on the Weno Developer Page.
+End (optional)
+End (yyyy-mm-dd): 
+End Date and Time
+End date and time of this result
+End date must be after start date
+End date must be after start date!
+Ensora Account Status
+Ensora MedEntry
+Ensora call failed
+Ensora eRX Role
+Ensora eRx
+Ensora eRx Account Id
+Ensora eRx Account Name
+Ensora eRx Debug Setting
+Ensora eRx Default Patient Country
+Ensora eRx Name
+Ensora eRx Partner Name
+Ensora eRx Password
+Ensora eRx SOAP Request Time-To-Live for Allergies
+Ensora eRx SOAP Request Time-To-Live for Medications
+Ensora eRx Site Address
+Ensora eRx User Role
+Ensora eRx User Role * invalid selection *
+Ensora eRx Web Service Address
+Enter a subject for this message.
+Enter a valid name for this new template.
+Enter any additional interventions, one per line
+Enter new authorization
+Enter new office note here. Text only.
+Enter the eCQM Performance Period year. For example 2025
+Entry Date
+Envelope Font Size in Pt
+Error closing tab, please close manually.
+Error creating person
+Error decoding eReq PDF document.
+Error generating CCDA
+Error generating CDA document. Please contact support.
+Error generating consolidated QRDA III report
+Error generating consolidated QRDA III report. See the error log for details.
+Error in rendering html display section.
+Error loading questionnaire responses. Please try again.
+Error performing search. Please try again.
+Error retrieving fax
+Error saving SDOH record.
+Error saving eReq PDF document.
+Error saving primary information: 
+Error!
+Error! Missing patient id.
+Error! Missing template or template unavailable.
+Error! No authenticated portal patient.
+Error! Not authorised. You must be an authorised portal user or admin.
+Error! Patient not found.
+Error. Form already registered! Redirecting back to form.
+Error: Authentication Service Denies Access or Not Authorised. Lacking valid credentials or User permissions.
+Error: Could not prepare the document for faxing - SignalWire requires a valid PDF.
+Error: Document is not associated with a patient
+Error: Document patient not found
+Error: Email failed
+Error: Failed to read fax content
+Error: Failed to save document. Category Fax
+Error: Invalid Event ID
+Error: Invalid Patient ID
+Error: Invalid action requested.
+Error: Invalid appointment duration for selected category
+Error: Invalid document reference
+Error: Invalid file location
+Error: Invalid phone number
+Error: Missing email address. Try again.
+Error: Missing vendor, user or credential items
+Error: No Fax content
+Error: No available slots for selected provider(s)
+Error: No content SignalWireClient
+Error: No content to send.
+Error: Not Authorized
+Error: Not authorised to access documents
+Error: Nothing to forward. Try again.
+Error: Unable to load notification log.
+Error: Unable to send email at this time.
+Error: fax operation failed
+Error: the request could not be completed.
+Estimated Due Date
+Evidence Based DSI Source Attributes
+Evidence Based DSI Used
+Evidence Based Decision Support Intervention Service
+Example: Fast for 12 hours before test
+Exclusive Category
+Execute Interval
+Execution Run Interval
+Existing Patient
+Exit to Dashboard
+Expand or collapse all items in section
+Export Patient Demographics LabWorks
+Export Registry XML
+Extension
+Eye Form
+Eye Medications
+EyeM
+FAILURE: Invalid report ID
+FAILURE: Invalid rule ID
+FAX
+FAX Phone Number
+FH
+FHIR Assessment
+FHIR Assessments
+FHIR Questionnaire
+FHIR Questionnaire data is invalid.
+FHIR Questionnaire runtime is not initialized.
+FHIR QuestionnaireResponse data is invalid.
+FHIR QuestionnaireResponse status is invalid.
+FHIR R4
+FHIR SDC
+Facility Add
+Facility Admin
+Facility ID is missing. From Admin select Weno eRx Tools then Weno eRx Service Setup. Enter the Weno Location ID of your facility
+Facility IDs
+Failed HL7 Content for Review
+Failed Login Counter
+Failed to apply holidays to the calendar
+Failed to assign fax
+Failed to connect the call.
+Failed to copy information to clipboard, try again or contact support
+Failed to copy stylesheet
+Failed to create ZIP file
+Failed to create directory
+Failed to create person: no data returned from service
+Failed to create temp file
+Failed to create temporary directory
+Failed to delete observation. Please try again.
+Failed to encode patient match key for segment
+Failed to establish a connection with the telehealth service provider.  Check your internet connection or contact support to verify the service is setup correctly.
+Failed to finalize ZIP file
+Failed to finalize file
+Failed to generate consolidated QRDA III report. Please try again.
+Failed to generate the C-CDA document. Verify that C-CDA documents are enabled in Globals and check the log for details.
+Failed to import CDA stylesheet
+Failed to import document for ccda. File Name
+Failed to import holidays into the staging table
+Failed to load CDA stylesheet
+Failed to look up holidays
+Failed to open the zip file
+Failed to parse CCDA XML
+Failed to parse token. Check system logs
+Failed to prepare fax payload for forwarding
+Failed to preview document
+Failed to publish holiday events
+Failed to read ZIP file
+Failed to read fax file
+Failed to read the generated document
+Failed to read transformed HTML
+Failed to render twig file
+Failed to resolve an encounter to deduplicate against. Go back and try a plain merge.
+Failed to retrieve fax from provider
+Failed to retrieve validation results from server
+Failed to send statement email
+Failed to stage fax payload for forwarding
+Failed to store fax document
+Failed to store the document
+Failed to transform CCDA to HTML
+Failed to update insurance company
+Failed to update registration
+Failed to write HTML file
+Failed to write XML file
+Failed to write file
+Fax Number
+Fax Successfully Sent
+Fax fetch failed.
+Fax media not available from provider
+Fax signature is not properly configured.  Continue?
+Fax:
+Feedback may be reviewed by the rule's developer and may be included in future releases.
+Feedback submission failed.
+Feedback submission was invalid as feedback message was too long.
+Feedback submitted successfully.
+Feel like a Falure
+Feeling Hopeless
+Feeling bad about yourself - or that you are a failure or have let yourself or your family down
+Feeling down, depressed, or hopeless
+Feeling tired or having little energy
+Female Headed Household
+Fetch failed in download template. No content to render in template render.
+Field "%1$s" cannot be negative.
+Field "%1$s" has a non-numeric value.
+Field "%1$s" is outside acceptable range (%2$s–%3$s).
+Field "%1$s" is outside typical clinical range (%2$s–%3$s).
+Field name
+File Already Exists
+File bug report on issue tracker
+File fax to a patient chart
+File must be a CSV
+File overwritten successfully.
+Filter Logs
+Financial Insecurity
+Finish the telehealth configuration and verify your setup is fully functionining in the Admin -> Config -> Telehealth settings section
+First Name Missing, From the Patient Chart select Demographics select Who.
+First Position
+First name and last name are required
+First name. Optional
+Food Insecurity
+Food Insecurity Status
+For detailed instructions close the 'Enter Details' pop-up and click on the Help icon on the main form. 
+For detailed instructions close the 'Enter Provider Details' popup and click on the Help icon on the main form. 
+For example: Pain Assessment
+For more information on Issues see the 
+For the name to appear on the drop-down list it must be first entered in Administration > Address Book 
+For the provider dropdown choose Group Calculation option
+For transactions, change category to Transactions
+Forcing confirmation that recipient received a message could fail to send if the recipient's system does not support or has disabled receipt confirmation.
+Form ActionBar (save, cancel, etc) position
+Form Name
+Form failed validation!
+Form not found
+Forms and Documents
+Forward fax not yet implemented
+Forward fax to new fax recipient or email attachment.
+Forward to email address if address is included.
+Forwarded Fax Document
+Forwarding Requests
+Found
+From VIS Date
+Full Directory
+Full Time
+Full name of the person accepting the EULA
+GEN
+GI
+GU
+Gate check failed for
+Gateway for Rainforest payments
+Gender Expression
+Gender Missing, From the Patient Chart select Demographics select Who.
+Generate Letter regarding 
+Generate PDF
+Generate Report that creates a report and displays it in a separate tab on the browser 
+Generated Goals
+Generated Interventions
+Geriatric
+Get Lab Results
+Go to Administration > Codes. Select ICD 10 under Type, enter ICD 10 Code, enter Description, under category select an appropriate category, this ICD 10 code will then appear when the button with that category is clicked
+Go to Administration > Lists and select 'Code Types' from the dropdown box. Use either ICD 9 or ICD 10, inactivate ICD 9 and select 'No' in the last dropdown box under ICD 10
+Goals are automatically generated based on positive SDOH findings
+Google Sign-In is enabled but the service is unreachable.
+Government
+Grant patients/rx ACL permission to this user/role so pharmacy selector access is authorized.
+Graphing Data Warning
+Group Calculation Method
+Group Home *
+HCFA Generated Successfully
+HIPAA Notice
+HTTP Error
+Has Abnormal Flags
+Have you ever been discharged from the Armed Services?
+Health Care
+Health Snapshot
+Healthcare professional
+Healthy Food
+Hide Billing features
+Hide on New and Edit Form
+Hide selected cards on patient dashboard
+High School Diploma or GED
+Home Address
+Horizontal Band, Logo on Left
+Horizontal Band, Logo on Right
+Horizontal Box, Logo on Left
+Horizontal Box, Logo on Right
+Host left the call
+Household Income
+Housing
+Housing Instability
+Housing Instability: Car, van, mobile home
+Housing Instability: Temporary(Shelter, Friends, Family)
+Housing Instability: Unsafe (Mold, Exposure)
+Housing Instability: Unsheltered
+How many hours do you work in a week?
+How many people are in your household? Including yourself.
+How often do you see or talk to people that you care about or feel close to?  (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)
+How the logos will be rendered relative to each other
+How to display the 'In Collection' option. May be overridden by Hide Billing Widget setting
+How to display the Date of Service on the Encounter form. Defaults to the current time on a new form
+How to display the sensitivity option
+Hunger Score
+Hunger VS
+Hunger Vital Signs
+I Decline. If you decline, you will not be able to use this feature.
+I accept the End User License Agreement
+I agree to these terms.
+I do not have permission to read 
+IP Address Block Notification For OpenEMR Admin
+IP String
+IP Tracker
+ISO 639 Code
+Id of insurance company
+Identity Information - Permission to retrieve information about the current logged-in user
+If Applicable for charting.
+If Ensora eRx - the electronic prescription module, is enabled the Ensora MedEntry and Ensora Account Status buttons will be appear here
+If a CEHRT software other than EMR Direct was used to transfer the summary of care you can check the Confirmed Recipient Received Summary of Care check-box upon confirmation of receipt if appropriate
+If desired, select a different location other than your default. Remember that the selected location must have been assigned to you in your Weno account. If it hasn't been assigned to you, you will not be able to prescribe from that location.
+If questionnaire import, use Questionnaire tool
+If this error persists, narrow the date range.
+If using a URI for your JWKS, verify it is reachable from the server.
+If you are not automatically redirected after clicking, please copy and then paste the link into your browser's address bar.
+If you are seeing this message the record was deleted. Click done, pls
+If you continue to have errors, have your server administrator turn on detailed API debug logs in the Admin -> Config -> Logging -> System Error Logging Options setting
+If you have Ensora eRx module enabled then the allergies have to be entered on the Ensora MedEntry page
+If you use the Carecoordination module to generate this document for this patient on the same day after creating this referral these checkboxes will be checked automatically
+If your application cannot keep a secret (such as an application that runs in a web browser) you should use the public application type.
+Import a template file or if a Questionnaire then auto create a questionnaire template.
+Import failed to save.
+Import to the questionnaire repository for later use in encounters or FHIR API
+Important to Note
+Imported document. File Name
+Improperly formatted request
+In Edit
+In Public (Shopping, Dining, Parks)
+In audit. Needs Review
+In order to record the values of the results returned you have to create a separate Discrete Result (Tier 4) for each of the panel's constituents, the fruit, as direct descendants of this (General Health Panel) branch (Tier 3). Examples of the results being CBC - Hemoglobin, CBC - Hematocrit, CMP - Sodium, CMP - Potassium, TSH etc. 
+In send window
+In the past year, has lack of transportation prevented you or a family member from any of the following? Check all that apply.
+In the past year, have you and your family members seen dentists?
+In the past year, have you been a female headed household?
+In the past year, have you been discriminated against because of any of the following? Check all that apply.
+In the past year, have you had any of the following stressful life events occur? Check all that apply.
+In the past year, have you or a family member been afraid of a partner or ex-partner?
+In the past year, have you or a family member not gotten medical care because of any of the following? Check all that apply.
+In the past year, have you or a family member struggled to pay for any of the following? Check all that apply.
+In the past year, have you or anyone in your family struggled with addiction?
+In what situations have you been discriminated in? Check all that apply.
+Inactivate Address
+Inactivate Contact
+Inactive Members
+Incarcerated
+Include Inactive Facilities
+Indicate if you use any form of evidence based DSI or predictive/AI based DSI in your application
+Individual Calculation Method
+Individual User Accounts
+Information copied to clipboard
+Inhaled Oxygen Concentration
+Inpatient
+Ins
+Install Compendium
+Install complete.
+Install or turn service on!
+Instructions for patient preparation (fasting, etc.)
+Internal error: claim 
+Internal error: invalid U2F request data
+Internet Connection Problem. Are you connected?
+Internet connection problem. Returning to Patient chart when alert closes!
+Interventions / Referrals
+Interventions are automatically generated based on positive SDOH findings
+Intimate Partner Violence
+Intimate Partner Violence for Self or Family
+Intraocular Pressures (mmHg)
+Intraocular Pressures by Date
+Intraocular Pressures by Time of Day
+Invalid CSRF token
+Invalid ERA name
+Invalid NDC unit.
+Invalid Pid or patient not found!
+Invalid content encoding
+Invalid dispense quantity
+Invalid document selected.
+Invalid email
+Invalid file type
+Invalid file upload
+Invalid google log in
+Invalid insurance company id
+Invalid physical exam diagnosis line id
+Invalid questionnaire response ID format
+Invalid reporting period selected
+Invalid request.
+Invalid save attempt
+Invalid save attempt. Suspected portal document attack!
+Invalid service type. Please use "sms" or "fax".
+Invalid start date
+Inventory is not available for this order
+Invitation Sent
+Invoice No.
+Is Active
+Is Connected
+Is Pending
+Is Primary Record (not reported by secondary source)?
+It consists of three sections 
+It has three tiers 
+It will display the justify display pop-up. It has a search box that will let you search for a ICD code.  It will also display the 10 most commonly used ICD codes. You can select any or all codes by checking the J (justify) checkbox and pressing update
+Items
+Items that are already an existing template will be overwritten if selected.
+Join Telehealth Session
+Juggernaut Systems Express
+LOINC 88121-9 (Required)
+LOINC 88122-7
+LOINC 88123-5
+LOINC form definitions are subject to the LOINC
+LYMPH
+Lab Account Number
+Lab GUID
+Lab Name
+Lab Requisition
+Lab Setup
+Lab Technician
+Lab Type
+Lab accession
+Lack of trust in medical care
+Last Failed Login
+Last MFA Failed Login
+Last Name Missing, From the Patient Chart select Demographics select Who.
+Last Updated
+Last assessed
+Last name, first name, address (title: comments)
+Last name. Optional
+Last pharmacy download did not complete. Using the directory from
+Launch SMART App
+Launch TeleHealth Session
+Launch a registered SMART app with standard OpenEMR patient, encounter, main-tab, or appointment context.
+Law Enforcement
+Leave blank for all
+Left: 
+Legal Fees
+Legal Issues
+Less than High School
+Less than High School Education
+Less than once a week
+Less-protected information (write,addonly optional)
+Light
+List Existing Prior Auths Report
+List Search
+List of 
+Listing an ICD10 code will let you search for educational material for that particular code 
+Little interest or pleasure in doing things
+Load all translations into memory at the start of each request. This uses more memory but eliminates database queries for translations, improving performance for sites with many translated strings.
+Loading questionnaire responses...
+Loading...
+Local Retail
+Log all Ensora eRx Requests and / or Responses.
+Login - details are only required if you are connecting to a facility using the SFTP protocol 
+Logo Positioning
+Looking for Work
+Lookup
+Loss of Interest
+Loss of job
+Low Health Literacy
+MBO 
+MFA Auto Blocked
+MFA Fail Counter
+MRN
+MR{{abbr Manifest Refraction acuity}}
+MUSC
+Mail was not sent. A SMTP client is not set up in Config Notifications!.
+Main Menu Logo
+Main Tab
+Main menu logo link URL
+Main menu logo link title
+Major illness or injury
+Make sure to choose the correct Rule Set for your promotion period
+Malformed request: access_control must be aligned with id.
+Malicious content detected
+Manage Care Team
+Manage Login Credentials
+Manage Signature
+Manage care contexts and control which dashboard widgets are available to users.
+Manage etherFAX
+Managing Background Services Help
+Manual Block
+Manual Questionnaire
+Manual Settings
+Manually Approve All Apps (USA jurisdictions must approve all patient standalone apps within 48 hours)
+Manually block this IP address
+Map Weno Location and local Facility Id's
+Map Weno User Id's
+Marks a message as successful only if recipient confirms they received the message.  This can fail messages that otherwise would have been received if the recipient's system does not support confirmation receipt
+Marriage
+Match DOB
+Matched Demographic
+Matched Demographic and DOB
+Material Hardship
+Max Sections To Display
+Maximum Failed Login Attempts For User
+Maximum Failed Login Attempts For User (0 for no maximum).
+Maximum Failed Login Attempts From IP Address
+Maximum Failed Login Attempts From IP Address (0 for no maximum).
+Maximum PIN attempts allowed for a patient portal one-time (e.g. invoice) token before it is refused. 0 or blank uses the built-in default.
+Maximum number of patients on Recent Patient list
+Maximum supported version for US Core FHIR Implementation Guide -- note if a resource/profile is forwards compatible it will still be supported
+Meaningful Use Requirements
+MedEx Cancelled Appointment Statuses
+Medical Assistant
+Medical Bills
+Medical Care
+Medical Cost Burden
+Medication Adherence
+Medicine or Medical Care
+Meds
+Member
+Merge From
+Merge Records
+Merge To
+Message Content
+Message Date Range
+Message Participants
+Message Recipients
+Message Results
+Message Template
+Message not found. It may have been deleted or does not exist.
+Message or an attached document
+Message sent.
+Messages Sent Today
+Metric 1
+Metric 2
+Metric 3
+Metric 4
+Metric 5
+Metric 6
+Migrated from Care Teams v1 data.
+Mild Depression
+Missing
+Missing Site Id using default
+Missing Template name.
+Missing document id
+Missing fax ID
+Missing fax ID or patient ID
+Missing or Invalid RingCentral Credentials. Please contact your administrator.
+Missing patient id.
+Missing required parameters.
+Moderate Depression
+Moderately Severe Depression
+Module Instructions
+Module Support
+Modules (module)
+More records found than could be displayed. Please narrow your search criteria.
+More support can be found on the OpenEMR community form
+Most secure! Use only your API Key and Account Id.
+Moved
+Moving or speaking slowly noted by others or fidgety or restless more than usual
+Multi (Shift or CTRL) Select the cards you want to hide on the patient dashboard.
+Multi-Select Facilities
+Multiple Patients Application
+Multipurpose Application
+Must be a minimum of 8 characters
+NDC Quantity
+NDC Unit
+NDC quantity for the related HCPCS code on a claim, in the NDC unit
+NDC quantity must be a number greater than zero.
+NDC unit and NDC quantity must both be set or both be blank.
+NDC unit of measure for the related HCPCS code on a claim
+NEURO
+NPA{{near point of Accommodation}}
+Name Misspelled
+Name Search
+National Provider Identifier for the ordering provider
+Near Point of Accommodation
+Needed care is not covered by insurance
+Negated
+Nested zip files are not allowed
+New Assessment
+New Claim
+New Document Uploads.
+New Empty Template
+New Order
+New Questionnaire insert failed.
+New coming feature. View patient progress with the completion of the form with the ability to send a secure notification to patient.
+New in openEMR ver 5.0.2 
+New standard onetime token created and saved successfully.
+New template save failed. Try again.
+Next Run Time
+No Answer
+No CQM QRDA 3 reports.
+No Change
+No DSI used
+No Dental Care due to Other
+No Dental Care due to Work Schedule
+No Dental Insurance
+No Dentist
+No Discrimination
+No Electronic Health Information (EHI) Exports.
+No Errors or Validation service is disabled in Admin Config Connectors 'Disable All CDA Validation Reporting'.
+No External Encounters
+No External Procedures
+No FHIR assessment history found.
+No Financial Struggles
+No Insurance
+No Items Try Refresh
+No Messages Found
+No Pharmacy Found
+No QRDA imports.
+No Questionnaire file was selected.
+No Recalls Found
+No SDOH assessments found.
+No Social Screening Risks
+No Stressful Life Events
+No Transportation Problems
+No Weno eRx prescriptions found.
+No active FHIR Questionnaires are available.
+No active encounter selected. To dispense medication, you must first select or create a valid encounter for this patient. Please return to the patient dashboard, select or create an encounter, then try again.
+No active encounter. Please select or create an encounter first.
+No child care
+No content to render in template render.
+No debt
+No delayed medical care
+No depressive disorder
+No encounter selected for dispensing
+No errors found, Document(s) passed Import Validation
+No file path specified
+No file uploaded
+No file was uploaded.
+No generated CCDA documents.
+No groups found
+No handler is available for this code type
+No health concerns are currently configured in the system.
+No in-house drug selected for dispensing
+No logs found within the selected date range.
+No matches found.
+No national provider number is setup for your account.
+No new prescriptions to sync.
+No participants
+No patient selected
+No patient selected.
+No pharmacies available. Run a pharmacy directory download before prescribing.
+No pharmacies loaded. Last successful download:
+No primary user set. Any authorized user can manage settings.
+No provider available
+No received Direct messages.
+No related persons found for this patient. Please add related persons in the Demographics Relations screen first.
+No results found.
+No results to display.
+No risk
+No routes found
+No search results were found
+No sent Direct messages.
+No sent faxes found.
+No sorted sections selected
+No, need dentist
+No, not able to take time off work
+No, not insured
+No, other
+Non-Provider
+None{{CQM SOP}}
+Normal Cardiac Exam: 
+Normal Lung Exam: 
+Not Authorised!
+Not Authorized to Edit Templates
+Not Authorized to Upload Templates
+Not Authorized to use this widget.
+Not Authorized! Missing Weno Prescriber Id. See User Settings or Weno Administrator to configure Weno Prescriber Id.
+Not Employed Outside the Home
+Not Examined: 
+Not Implemented
+Not Supported
+Not a primary caregiver
+Not a valid Questionnaire resource!
+Not able to take time off work
+Not authorized to modify the requested document
+Not authorized to move the document to the selected category
+Not authorized to save patient assessments.
+Not authorized to upload to the selected category.\n
+Not authorized to view requested file
+Not imported, cannot create file
+Not recorded
+Not seen
+Note some regulatory environments such as the USA require that we collect source attribute information on DSI if your application uses it.
+Note that for the Automated Measure Calculations to correctly calculate each EC must have both their NPI and TIN number setup
+Note that for the Automated Measure Calculations to correctly calculate each EC must have have their NPI number setup correctly and be connected to a default Billing Facility
+Note.
+Note: Log only maintains the last 60 days of activity.
+Nothing to give! Missing valid fetch data.
+Nothing to report
+Nothing to report.
+Nothing to report. Parse error.
+Notification requests are being sent!
+Notify
+Notify a user and attach this fax to message.
+Number CQM QRDA 3 reports
+Number QRDA imports
+Number of Electronic Health Information (EHI) Exports
+Number of generated CCDA documents
+Number of received Direct messages
+Number of sent Direct messages
+Number where you will receive faxes.
+Nurse
+OAuth2 App Manual Approval Settings
+OAuth2 EHR-Launch Authorization Flow Skip Enable App Setting
+OD CC{{Visual Acuity with correction right eye}}
+OD CTL{{Va with Contact Lens right eye}}
+OD MR{{Visual Acuity with Manifest refraction right eye}}
+OD sc{{Visual Acuity without correction right eye}}
+OD{{abbr Right Eye}}
+OROPHARYNX: 
+OS CC{{Visual Acuity with correction left eye}}
+OS CTL{{Va with Contact Lens left eye}}
+OS MR{{Visual Acuity with Manifest refraction left eye}}
+OS sc{{Visual Acuity without correction left eye}}
+OS{{abbr Left Eye}}
+Observation deleted successfully.
+Observation saved successfully.
+Observations
+On Weno Only
+Once a report has generated the results will be displayed on the report screen
+Once all the report settings have been chosen press the Submit button
+One or more required fields are missing in order to send your message
+One or more sends failed. Check the PHP error log for details.
+OneTime
+Onetime creation failed. Missing site address!
+Onetime failed with missing PID or the token creation failed
+Onetime save failed!
+Only FHIR Questionnaire JSON can be imported by the OpenEMR Questionnaire Runtime.
+Only Show Active Codes 
+Only upload active prescriptions to Ensora eRx.
+Onset of Illness: 
+Open 24 Hours
+Open Address Book
+Open Weno eRx Service Setup and complete required primary credentials (enable, admin username/password, encryption key), then validate and save.
+Open in New Browser Tab
+OpenEMR Auto Select Dark/Light Theme
+OpenEMR Dark Theme Always
+OpenEMR Light Theme Always
+OpenEMR Patient Portal
+OpenEMR Website
+Opt Phone Number
+Optional Filters:
+Optional end time
+Optional if not using Account API Key
+Optional start time
+Or paste in the following code into your authenticator app
+Order Id
+Order Intent
+Order Number
+Order Requisition PDF Document saved successfully.
+Order of the Secondary logo
+OrderNumber
+Origin the patient-portal PDF renderer accepts http(s) resource references for (barcodes, letterhead images, inline CSS url() values). Formats accepted: `host` (either scheme, default port), `host:port`, `http://host`, `https://host:port`. When left blank the renderer rejects all remote http(s) resources, which disables same-host barcodes and letterhead images.
+Other Comments
+Outpatient
+Over 40 Work Hours
+Overall Disability Status
+Overwrite
+Oxygen Flow Rate
+PDF Font Size in Pt
+PHQ-9
+PIN
+POH
+POS
+PSYCH
+Parameter
+Part Time
+Participant
+Participants 
+Partner Name issued for Ensora eRx service.
+Password Expiration Days
+Password Reset
+Password expiration period in days. 0 means this feature is disabled.
+Password not long enough
+Password not strong enough
+Password too long
+Password update error! Empty username or password.
+Paste FHIR Questionnaire JSON here
+Paste FHIR Questionnaire JSON to preview
+Patient API access is disabled
+Patient Billing Summary
+Patient Billing Summary by Date
+Patient Checkout for 
+Patient Encounters List
+Patient Goals (SDOH)
+Patient Health Information is Available to Access via API within 48 hours (Medicaid) or 4 business days (MIPS)
+Patient Health Questionnaire (PHQ-9)
+Patient Matching
+Patient Portal Compliant
+Patient Portal PDF Renderer Allowed Host
+Patient Reminder Setup
+Patient Score
+Patient Seen During EHR Reporting Period
+Patient Selector
+Patient and Insured Information - Boxes 1 - 13 and Physician or Supplier Information - Boxes 14 - 33
+Patient context required
+Patient date of birth is missing, or invalid
+Patient did not qualify
+Patient email address is invalid
+Patient email is missing, invalid, or cannot be processed by this system
+Patient has an unallocated pre-payment amount of 
+Patient has automatic access to patient data since API credentials were generated on
+Patient has portal credentials and is setup for telehealth sessions
+Patient is missing portal credentials, has not authorized the portal, or has not verified their email address.
+Patient is not a valid portal user
+Patient is under 19 years old. A Responsible Party is required. From the Patient Chart select Demographics Primary Insurance or Guardian to add a person.
+Patient name is missing, or invalid
+Patient opted out of 3rd party api access
+Patient sex must be set to male or female to render a growth chart.
+Patient standalone apps Auto Approved, EHR-Launch,Provider&System Apps require manual approval
+Patients with prior auths
+Pediatric
+Pediatric Weight Height Percentile
+Pending Faxes
+Pending SMS
+Performer Type
+Period End
+Period Start
+Permanent and Safe
+Permission to check the job status of a bulkdata export
+Permission to check the job status of a bulkdata export for resource type
+Permission to do the following actions
+Permission to export Patient Compartment resources
+Permission to export Patient Compartment resources connected to a Patient Group
+Permission to export all resources of type
+Permission to export the entire system dataset that is exportable
+Permission to export the entire system dataset the is exportable
+Permission to obtain information from the EHR for the current session context when app is launched from an EHR.
+Permission to retrieve information about the current logged-in user
+Permission to swap the insurance for resource type
+Permission to swap the insurance position for a patient (such as primary and secondary insurance)
+Permission to use the OpenEMR FHIR api
+Permission to use the OpenEMR apis from inside the patient portal
+Permission to use the OpenEMR standard api.
+Person created but failed to create contact record
+Person created successfully
+Personal pay
+Pharmacist
+Pharmacy Directory
+Pharmacy Search
+Pharmacy directory may be out of date. Last full update
+Phone number of recipient
+Phone, Internet
+Ph{{abbr Pinhole acuity}}
+Pick a default portal theme.
+Pin Authentication Failed! Contact administrator.
+Place the secondary logo first, or second
+Placement of the save/cancel, and other buttons where supported (Demographics, Encounter Forms, etc).
+Please add Users Default Facility
+Please click the below link (only valid for 48 hours) to edit document
+Please enter Client ID first.
+Please enter a username of a minimum of 8 characters. Recommended to include symbols and numbers but not required.
+Please enter a valid email address
+Please enter a value to search the patient list
+Please enter number of hours before appointment
+Please fill in all required fields
+Please fill in all required fields:\n
+Please follow below link to complete the requested document.
+Please print this report to a pdf and email the pdf to the OpenEMR Foundation at hello@open-emr.org. In the email, please confirm your practice is in the United States and state the clinical setting of your practice (this can be 'Primary/Specialty Care' setting, 'Behavioral Health Care' setting, or any other setting).
+Please provide a sender address, recipient address, and select at least one send method.
+Please provide at least one search criterion
+Please review and take any necessary actions
+Please review your current invoice by clinking the link to automatically redirect to your billing account portal. Use this PIN to complete authorization
+Please select First Name!
+Please select Last Name!
+Please select a Birth Date!
+Please select a Primary Business Entity facility with 'Tax ID' as your facility Tax ID. If you are an individual practitioner, use your tax id. This is used for identifying you in the Ensora system.
+Please select a questionnaire response.
+Please select a recipient
+Please select a value for Gender!
+Please select search criteria above, and click Submit to view results. If criteria(s) are not selected, then will show all.
+Please select the subscription button below.
+Please try again or check your internet connection
+Please wait while we search for invoices.
+Poor Focus
+Poor appetite or overeating
+Portal Default Theme
+Portal Gateway
+Portal Lockout Tracker
+Portal Login
+Portal Login Forced Credential Reset
+Portal One-Time Token Maximum PIN Attempts
+Possible Diagnoses
+Postpartum End Date
+Postpartum Status
+Potential Low Income. Household Size
+Predictive DSI Source Attributes
+Predictive DSI Used
+Predictive Decision Support Intervention Service
+Preference deleted
+Preference saved
+Preference updated
+Pregnancy / Postpartum Status
+Pregnancy Status
+Pregnancy intention in the next year
+Preload Translation Cache
+Prepayment Balances
+Prepayment amount must be a positive number.
+Prescribe
+Prescriber
+Prescriber Weno Ids
+Prescription attached to this email.
+Prevent Appointment Comment as Visit Reason
+Primary Admin Username and or Primary Admin Password is invalid. Try to reenter or correct in your Weno Dashboard.
+Primary Config Edit
+Primary ID
+Primary Menu Logo Height
+Primary Pharmacy
+Primary User
+Primary information saved successfully
+Print Referral
+Print debug information
+Print page
+Prior Authorization Manager
+Prior Auths
+Prior Auths Report
+Prior patient-level QuestionnaireResponses saved outside an encounter.
+Prior reports can be accessed from the Reports Results page
+Private confidential message
+Problem List Item
+Problem with download. Use browser back button
+Problems!
+Procedure Order Reason Information
+Production Check
+Production Mode
+Profile From Medical Records
+Project ID
+Psychomotor Retardation
+QRDA is empty of content.
+Question
+Questionnaire
+Questionnaire Form Display Style
+Questionnaire JSON is invalid.
+Questionnaire Response save failed.
+Questionnaire argument is invalid
+Questionnaire import failed.
+Questionnaire import form is no longer available.
+Questionnaire json is invalid
+Questionnaire repository link is missing from the response.
+Questionnaire response contains validation errors.
+Questionnaire response does not belong to the selected patient.
+Questionnaire response is invalid format
+Questionnaire response was not found.
+QuestionnaireResponse Preview
+QuestionnaireResponse data exceeds the maximum allowed size.
+QuestionnaireResponse data is missing.
+QuestionnaireResponse repository linkage is invalid.
+Questionnaires Repository
+Questionnaires Repository All
+Questions
+Queue (MyMailer::emailServiceQueue)
+Queue Templated (MyMailer::emailServiceQueueTemplatedEmail)
+Quick Pharmacy Assignment
+Quite a Bit Stressed
+Quite a bit
+RESP
+ROS
+Rainforest API Key
+Rainforest Merchant ID
+Rainforest Platform ID
+Rainforest Webhook Secret
+Rate limit exceeded. Please try again after 30 seconds.
+Reactivate Address
+Reactivate Contact
+Reactivate this address?
+Reactivate this contact information?
+Reason Code
+Reason End Date (leave empty if reason does not end)
+Reason Start Date
+Reason Status
+Receipt Confirmed On
+Receipt of Summary of Care Record Confirmed During Calendar Year
+Recipient Email
+Recipient Phone
+Recommended actions
+Recompute Duplicate Scores On Every Report Load
+Referral Document Section Display Order
+Refresh to see new messages
+Refugee
+Register / Refresh Webhook Subscription
+Register New App
+Reject Results
+Related Person
+Related Person List
+Religious or Civic Organizations
+Remaining
+Remaining Units
+Reminder Actions
+Render
+Render a valid FHIR Questionnaire before importing.
+Rendering FHIR Questionnaire
+Rent or Mortgage
+Rent/Mortgage
+Replace Tags
+Report Unavailable
+Report to Administration
+Report to Administration.
+Reported By (Address Book User)
+Reporting period updated successfully
+Request ability to access data even when the current logged-in user has logged out
+Request ability to access data while the current logged-in user remains logged in
+Requested
+Require Patients to enter their on-record email for Portal Login
+Required Weno account password
+Required for ONC certified deployments.
+Reset Counter
+Response content must be scalar
+Responsible Party Zip, Street and or City Missing, From the Patient Chart select Demographics Primary Insurance or Guardian to add or edit a person.
+Restart OpenEMR
+Results Accepted
+Results Rejected
+Results are split.
+Retired
+Retrieve Results
+Return Dashboard
+Return to Demographics
+Return to Patient
+Return to Patient Demographics
+Right Justify Labels in Demographics
+Right justify labels in Demographics for easier readability.
+RingCentral
+RingCentral Fax
+RingCentral SMS
+Role Defaults
+Role Type
+Route List
+Row %1$d: CSV row must have date and description
+Row %1$d: Invalid date format in CSV
+Rule Feedback
+Rule has user provided feedback, select icon to show feedback
+Rule usage of Patient\'s Date of Birth
+Rule usage of Patient\'s Ethnicity
+Rule usage of Patient\'s Gender Identity
+Rule usage of Patient\'s Health Status Assessments
+Rule usage of Patient\'s Language
+Rule usage of Patient\'s Race
+Rule usage of Patient\'s Sex
+Rule usage of Patient\'s Sexual Orientation
+Rule usage of Patient\'s Social Determinants of Health
+Run/complete Pharmacy Directory download in Weno Downloads Management and wait for Success with populated pharmacy records.
+Running a report
+SC{{abbr without correction}}
+SDOH (USCDI v3)
+SDOH Assessment
+SDOH Assessment (USCDI v3)
+SDOH Assessment Saved Successfully
+SDOH Assessments
+SKIN
+SMART Context Test Launches
+SMS Number
+SMS Phone Number
+SOAP notes including subjective, objective, assessment, and plan information
+Same as a browser refresh. Click to implement any new menus and Configuration items.
+Save Assessment
+Save Care Team
+Save Settings
+Save Success
+Save User Permissions
+Save and Exit
+Save as Draft
+Save care team?
+Save changes
+Save did not complete: no field rows were submitted. Please contact your administrator.
+Save did not complete: the form data could not be re-parsed. Please contact your administrator. No payments were modified.
+Save did not complete: the form data could not be re-parsed. Please contact your administrator. Your edits in the browser have not been discarded.
+Save failed.
+Save settings first, then register. Re-register after changing credentials or the server URL.
+Save successful
+Save time! Add your Prescriber Weno Credentials now!
+Saving selected fax to selected patient.
+Scheduled Date
+Scheduled but Needs Review
+Scheduled end time for procedure
+Scheduled start time for procedure
+Scheduling Information
+Schematron validation could not be completed. This document was not checked for conformance; see the system log for details.
+School or Childcare
+Scleral Depression
+Scleral Depression Retinal Drawing
+Screening Tool
+Search City for Lab
+Search NPPES Registry
+Search Result Actions.
+Search State for Lab
+Search by Lab name
+Search by name:
+Search configuration
+Search existing records
+Search failed
+Search for Labs
+Search for patient...
+Search term is required for this code type.
+Search users...
+Seasonal or Migrant
+Second Position
+Second is the All Patients. This View shows all current templates that are default to all patients. 
+See Availability
+Select All Documents
+Select Assessor
+Select Background Service to Manage
+Select Care Context
+Select Coverage
+Select Documents to Download
+Select Form
+Select NPI
+Select Questionnaire Response
+Select Yes/No where appropriate
+Select a Code
+Select a Pharmacy Here
+Select a Test Pharmacy Here
+Select a reason code
+Select a status code
+Select an item to add
+Select claim for billing
+Select feedback icon to show feedback
+Select for No Pharmacy or Click for a list
+Select from list or type your own in Title
+Select icon to view more information or provide feedback about this rule.
+Select languages.
+Select new from Questionnaire Repository
+Select the AMC Detailed Report button to see a detailed report of patients and patient actions for each AMC measure
+Select the credentials create or reset behavior for forcing patient to change password on portal login.
+Select users from the dropdown list
+Selected health concerns will be added as active conditions for this patient and linked to this SDOH assessment.
+Selected questionnaire response does not exist
+Selecting this number will open a report with all of the patients that had data included in the denominator
+Selecting this number will open a report with all of the patients that had data that failed in the numerator
+Selecting this number will open a report with all of the patients that had data that passed in the numerator
+Self-Pay
+Send Email Reminders
+Send Fax
+Send Methods
+Send SMS
+Send SMS Reminders
+Send Test Email
+Send a test email to verify that each email code path is working correctly.
+Send an email to 
+Sender Email
+Sender email address is not configured or invalid
+Sending File
+Sending Invitation
+Sent By
+Sent To
+Server error occurred, Check logs.
+Server error occurred. Check logs for details
+Service Status
+Service unavailable.
+Session Link Generated
+Session can only be launched two hours before or after an appointment
+Session has been completed.
+Session is invalid!. Click to Reset?
+Set POS code in Encounter
+Set Service Facility in Encounter To First Care Team Facility
+Set a Weno Provider ID for the currently logged-in user in the users table/profile so the prescriber is recognized as a Weno user.
+Set as primary user for all services
+Set default contexts for user roles. New users will automatically receive the context assigned to their role.
+Set individual user permissions for Fax, SMS, Email, and Voice services.
+Set the maximum compatibility version of US Core IG to support.  If a resource profile has breaking changes it will not exceed the given profile. If a profile has backwards breaking changes it will skip that profile version if a later version is supported.
+Sets the font size for most PDF text in pt
+Settings verified
+Setup
+Setup Credentials
+Setup Email
+Setup Email Account
+Setup Fax
+Setup Fax Account
+Setup Patient Reminder Credentials
+Setup SMS
+Setup SMS Account
+Setup Services
+Setup Voice
+Setup Voice Account
+Severe Depression
+Sexual Preference
+Show Date of Service on Encounter Form
+Show Day of Week
+Show Discharge Disposition option on Encounters
+Show Encounter Class option on Encounters
+Show Encounter Type option on Encounters
+Show Facility option on Encounters
+Show In Collection on Encounter Form
+Show More Fields
+Show Only Auto Blocked
+Show Only Manually Blocked
+Show Only With Applicable Failed Logins
+Show Ordering Provider option on Encounters
+Show Patient Address
+Show Primary Logo on portal login page
+Show Referring Provider option on Encounters
+Show Secondary Logo on Login
+Show Secondary Logo on portal Login page
+Show Sensitivity on Encounter Form
+Show Unchecked Boxes
+Show Visit Category option on Encounters
+Show on Edit Form Only
+Show on New Form Only
+Show on New and Edit Form
+Show primary logo on login
+Showing documents for patient
+Shows all existing Questionnaires available from repository. Select to automatically create template.
+Sign out
+SignalWire Fax
+SignalWire client not initialized. Please configure credentials.
+Since this is a 404 status then ensure that the PHP Redirect module is installed and enabled!
+Since we are creating a new patient and an associated patient id has not been created yet, we are unable to establish a relationship between patient and the new name to save.
+Single Patient Application
+Site Address Override (if needed for OAuth2, FHIR, CCDA, or Payment Processing)
+Skip - No Concerns
+Skip EHR Launch Authorization Flow
+Skip Timing
+Skip Update
+Skip the Timing Attack Prevention
+Skipped (invalid recipient)
+Skipped table that is no longer present: %s
+Skipping import. Document exists already. File Name
+Sleep Disturbance
+Smart Apps
+Soc
+Social Connection Less than Once a Week
+Social Connection Only 2 to 3 Times a Week
+Social Connection Only Once a Week
+Social Context
+Social Determinants of Health (SDOH)
+Social Determinants of Health Assessment
+Social Isolation
+Social Screening Risks
+Social Screening Tool
+Socioeconomic Status
+Some College
+Some Helpful Sites
+Some global parameters on the setup and printing of the generated claims can be set in Administration > Globals > Billing
+Some of these data sections can be turned off if not being utilized by the clinic. Go to Admin, Config, Appearance to hide the cards to streamline the dashboard
+Something went wrong. Try again!
+Somewhat
+Somewhat Stressed
+Sorry you are not privileged enough. Enrollment is limited to Administrator accounts.
+Sorry! Add New not allowed here
+Sorry, Invalid code!
+Sorry, an error occurred while processing your request. Please try again later.
+Sorry, verify the information you have entered is correct
+Source insurance could not be saved as it was missing data required for database updates
+Space URL
+Special Needs Child
+Specimens for Test
+Spectacle Rx
+Start (yyyy-mm-dd): 
+Start Report
+Starting Install.
+Starting uninstall.
+State Missing, From the Patient Chart select Demographics select Contact.
+State Wide Mail Order
+Status of
+Step 1 - Subscription Signup
+Step 2 - Credentials Signup
+Step 3 - Complete Telehealth Configuration
+Street Address Missing, From the Patient Chart select Demographics select Contact.
+Stress Event: (Other)
+Stress Event: Bankruptcy
+Stress Event: Birth of Child
+Stress Event: Child Moving Out
+Stress Event: Death of a Loved One
+Stress Event: Divorce or Separation
+Stress Event: Incarcerated
+Stress Event: Legal Issues
+Stress Event: Loss of Housing
+Stress Event: Loss of Job
+Stress Event: Major Illness or Accident
+Stress Event: Marriage
+Stress Event: Moved
+Stress Event: Victim of Crime
+Stress Event: Witness of Crime or Accident
+Stress is when someone feels tense, nervous, anxious, or can’t sleep at night because their mind is troubled. How stressed are you?
+Struggle to pay for Childcare
+Struggle to pay for Clothing
+Struggle to pay for Education
+Struggle to pay for Healthy Food
+Struggle to pay for Medicine or Medical Care
+Struggle to pay for Other
+Struggle to pay for Phone or Internet
+Struggle to pay for Rent or Mortgage
+Struggle to pay for Transportation
+Struggle to pay for Utilities
+Student
+Student Loans
+Submit Completed
+Submit Feedback
+Successful API requests
+Successfully forwarded fax to
+Successfully validated claim
+Suicidal Thoughts
+Summary of Care Document created for referral had missing required data or missing notation of no current problem, medication, and/or medication allergy
+Summary of Care Document not created electronically for referral
+Summary of Care Record (including all CMS required information or indication of none) Created and Transmitted / Exchanged Electronically During Calendar Year
+Summary of Care Record Created and Transmitted On
+Support
+Support/Sales
+Supported document mime types are the following
+Surg
+Sync
+Sync Report
+Sync Report Now
+Synced
+Syncing Report was behind. Syncing last 7 days.
+System Client Application
+System error: The selected encounter does not exist or does not belong to this patient. This may indicate a data integrity issue. Please contact support if this problem persists.
+Tags
+Target insurance could not be saved as it was missing data required for database updates
+Tel:
+TeleHealth
+TeleHealth Session
+TeleHealth Session Ended
+TeleHealth Session Expired
+TeleHealth Sessions can only be launched within two hours of the current appointment time.
+Telecom List
+Telehealth settings must be saved to verify configuration
+Telehealth settings portal is not setup for patient session invitations
+Temporary
+Temporary (shelter, family, friends)
+Terms of Use
+Test Email Reminders
+Test Pharmacies
+Test SMS Reminders
+Text retrieval error. Click show message
+Thank you for selecting our module to help your practice/clinic
+Thank you for your attention.
+The AMC calculations in this software only uses the MIPS Promoting Interopability calculation methods and does NOT use the Medicaid calculation methods
+The Auth Name or API key for selected account. API Login ID for Authorize.Net and API Secret for Stripe.
+The DORN network requires basic address setup for your clinic. This setup is based on NPI. The first and default entry will be your billing NPI. If there are other NPI's in your clinic that have their own account at a lab, then more than 1 entry can be created here.
+The Description will detail the type of payment or adjustment - Cash, Check, Electronic etc 
+The Duplicate Patient Management report rescores every patient each time it loads. That keeps it accurate after a bulk import, but is slow on large installs. Turn this off where scores are already kept current when demographics change; the Recalculate Scores button still runs a full pass on demand.
+The Encryption key did not pass validation. Clicking Reset button will reset your account encryption key.
+The Encryption key did not pass validation. Clicking this button will reset your encryption key so you may continue.
+The Ensora eRx Partner Name, Ensora eRx Name and Ensora eRx Password will be provided by the vendor
+The From address for the test email. Use an address from your domain to avoid spam filters.
+The QuestionnaireResponse does not belong to the selected patient.
+The QuestionnaireResponse to update was not found.
+The claim file: 
+The code set could not be imported. Check the system log for details.
+The credentials you entered were invalid.
+The dated reminder will start to appear 5 days before the reminder date under Dated Reminders 
+The default billing facility must have the tax id number (TIN) that each EC will be connected to for billing purposes
+The documentation will open in a new tab
+The event should have returned a ProcessingResult object
+The filter section can be hidden or revealed by clicking the arrowhead  on the bottom right 
+The first two numbers in the first and second column will be used to determine the sort order of the buttons and the lists that are present in the popup
+The following fields are required to send your message
+The height of the portal logo located on the primary navbar in pixels without a suffix
+The hostname for OAuth2, FHIR, CCDA, and Payment Processing, pointing back back to this OpenEMR instance. e.g. https://localhost:9300.
+The job id you submitted failed to delete
+The job id you submitted was not found
+The maximum number of patients on the Recent Patient list
+The module is fully functional
+The most current Rule Set is selected by default
+The most recent RuleSet calculations only applies to the MIPS Promoting Interoperability
+The name and government regulation of the Automated Measure Calculation rule used
+The number of historical vital columns to display on medium to large screen displays
+The number of records (patients,encounters,referrals) that failed the numerator rule criteria
+The number of records (patients,encounters,referrals) that met the denominator calculation inclusion criteria
+The number of records (patients,encounters,referrals) that successfully passed the rule criteria
+The order of clinical information sections to display when viewing a CCD-A document
+The order of clinical information sections to display when viewing a CCD-A document when the document type is not supported or is unknown
+The parts of the program to which access can be controlled are called Access Control Objects (ACOs). 
+The pass/total percentage that was calculated from dividing the numerator by the denominator
+The repository record does not contain a FHIR Questionnaire.
+The rest of the boxes related to the Ensora eRx service can be left at default values
+The saved response is not a FHIR QuestionnaireResponse.
+The selected Questionnaire is not active or was not found.
+The selected repository record does not contain a FHIR Questionnaire.
+The server address will be of the form 
+The source attribute value is unknown or the DSI developer did not provide any information for this field
+The specified user does not exist
+The system received a document it does not know how to process through the Direct protocol
+The system will not be able to provide legal attestation that you have reviewed this information without a valid national provider number.
+The total number of patients that were processed for this report
+The very first step would be install the ICD codes. Go to Administration > Other > External Data Loads. Select the Code sets you want to install and click Install
+Therapist
+There are 3 forms in the Core category - Demographics, Facility Specific User Information and History and all 5 forms in Transactions that can be edited 
+There are no prior visits documented to display for this patient.
+There are three main template views. The first is the Repository where you store templates for future edits and disposal. 
+There is a 14 day free trial period included with the subscription
+There was a system error in completing this operation. Please try again or contact customer support if you continue to experience problems
+There was an error in communicating with the network
+There was an error in generating the session link, try again or contact support
+There was an error in launching your telehealth session.  Please try again or contact support
+There was an error in saving the telehealth appointment status.  Please contact support or update the appointment manually in the calendar
+There was an error in sending the message to your target recipient
+There was an unknown system error
+These demos are not meant for headless server testing. Please do this on your own servers.
+These fields are required.
+This DSI provider did not provide any information for this field
+This TeleHealth appointment has been completed.
+This appointment belongs to a different provider. Would you still like to start a telehealth session (this will copy the appointment to your calendar and create an encounter if needed)?
+This email has an attached document.
+This email has an attached fax document.
+This feature will allow the default service facility to be selected by the care team facility in Choices.
+This file has already been processed.
+This file has not yet been processed.
+This form auto saves.
+This import takes anywhere from a couple seconds to less than a minute depending on your connection speed but will normally take 25-30 seconds for a full import.
+This is a Telehealth session appointment.  If you would like to provide telehealth sessions to your clients contact your administrator to enroll today.
+This is required for Weno Pharmacy Directory Download in Background Services. Same as email for logging in into Weno
+This is required for your Prescriber user setup. Same as email for logging in into Weno
+This module is subscription based and needs to be enabled from Administration > Globals > Connectors > Enable Ensora eRx Service
+This module was developed by
+This report is required for OpenEMR instances in the United States that utilize ONC certification. This reports collects metrics that are used in Real World Testing that are required for the OpenEMR Foundation to maintain the ONC certification. This report calculates metrics from April 1, 2026 to September 30, 2026. Please run this report sometime in October or November of 2026 and then print it to a pdf and email the pdf to the OpenEMR Foundation at hello@open-emr.org. In the email, please confirm your practice is in the United States and state the clinical setting of your practice (this can be 'Primary/Specialty Care' setting, 'Behavioral Health Care' setting, or any other setting).
+This requires reCAPTCHA to be setup
+This section will allow the logged in user to view existing methods or to delete them 
+This setting has no effect! Use `drive_encryption` instead.
+This will enable encryption of certain data stored in the database. This should be left enabled unless the database server itself is encrypted
+This will enable encryption of items that are stored on the drive. Strongly recommend keeping this setting on for security purposes.
+This will hide billing features throughout the program.
+Thoughts that you would be better off dead, or of hurting yourself
+Time (seconds) to Reset Maximum Failed Login Attempts Counter For User (0 for no reset).
+Time (seconds) to Reset Maximum Failed Login Attempts Counter From IP Address (0 for no reset).
+Time (seconds) to Reset Maximum Failed Login Attempts For User
+Time (seconds) to Reset Maximum Failed Login Attempts From IP Address
+Time of Day
+Time-To-Live for Ensora eRx Allergies SOAP Request in seconds.
+Time-To-Live for Ensora eRx Medications SOAP Request in seconds.
+To (Trusted Email Address)
+To Date
+To VIS Date{{Range}}
+To disable automatic message checking go to Administration > Globals > Connectors  and set phiMail Message Check Interval to 0 (zero) 
+To enable Background Services setup an SMS vendor, enable the Mail Client or Both.
+To get started you choose one of the two radio buttons. 'Invoice Search' or 'ERA Upload' 
+To get your telehealth configuration information you must first signup for a subscription trial and then setup your telehealth credentials
+To help explore the various components of the Report page especially if you want to use it as an instruction manual it is suggested that you reduce the size of the browser to cover half the viewport, resize the help pop-up by clicking and dragging the bottom right corner of the pop-up. Open another instance of the browser and resize it to cover the other half of the viewport, login to openEMR 
+To use the help page as an instruction manual it is suggested that you reduce the size of the browser to cover half the viewport, resize the help pop-up by clicking and dragging the bottom right corner of the pop-up. Open another instance of the browser and resize it to cover the other half of the viewport, login to openEMR 
+Toggle all Email permissions
+Toggle all Fax permissions
+Toggle all SMS permissions
+Toggle all Use Primary settings
+Toggle all Voice permissions
+Toggle all services for this user
+Tool
+Tooltip shown when hovering over the main menu logo. Leave blank to use the default (OpenEMR Website).
+Tooltips on/off
+Top Left
+Top Right
+Top and Bottom of Form
+Top of Form (default)
+Total Failed Logins
+Total PHQ-9 score
+Total Positives
+Total for 
+Total number of canceled appointments
+Total number of clinical sections to display when viewing a CCD-A document (0 for unlimited)
+Totals by Method
+Totals for 
+Tracker
+Transfer Time
+Transferred TeleHealth session to another provider.
+Transition of Care Document Section Display Order
+Transition of Care or Referral Within Reporting/Performance Period
+Transmit failed. Lab response
+Transmit failed. See Order Log for details.
+Transmitting order to Quest
+Transportation
+Transportation Insecurity
+Transportation Insecurity for Healthy Food
+Transportation Insecurity for Medical Care
+Transportation Insecurity for Other
+Transportation Insecurity for School or Childcare
+Transportation Insecurity for Visiting Family or Friends
+Transportation Insecurity for Work or Meetings
+Treatment Intervention Preferences
+Treatment: 
+Trend Form
+Tropic 1%
+Trouble concentrating on things, such as reading an article or watching videos
+Trouble falling or staying asleep, or sleeping too much
+Trusted Email Address
+Trusted Messages
+Trusted message was sent
+Tube barcode / internal id
+Turn off full screen display for Questionnaire Forms
+Twilio Account Sid
+Twilio Api Secret
+Twilio Api Sid
+Twilio Auth Token
+Twilio SMS
+Type Your Message Here
+Type a brief message and hit Send Message 
+Type the message and click Send Message 
+Type to search Questionnaire Repository.
+UB04 Claim
+UB04 Claims Form
+UNUSED: Enable Encryption of Items Stored on CouchDB
+URL for Ensora eRx Site Address.
+URL the main menu logo links to. Leave blank to make the logo non-clickable.
+URLs for Ensora eRx Service Address, separated by a semi-colon.
+USPS API Client ID
+USPS API Client Secret
+UnCheck to not show insurances in Profile.
+Unable to create a temporary file for the document
+Unable to create upload directory
+Unable to decrypt these comments since the PHP mycrypt module is no longer available.
+Unable to find FHIR Questionnaire data for this form.
+Unable to open ZIP archive
+Unable to read Questionnaire file.
+Unable to read file from ZIP archive
+Unable to read uploaded file
+Unable to render Questionnaire
+Unable to resolve the patient identity for this QuestionnaireResponse.
+Unable to save QuestionnaireResponse.
+Unable to save uploaded file
+Unable to send fax (no response)
+Unable to write extracted ZIP contents
+Unauthorized access
+Unavailable! Setup SMTP in Config Notifications.
+Uninstall complete.
+Uninsured or Underinsured
+Unique identifier for the selected laboratory
+Unique identifier for your client site
+Unknown Medication
+Unknown error
+Unknown error occurred
+Unlink Patient
+Unnamed Questionnaire
+Unsafe Neighborhood
+Unsafe Neighborhood at Night
+Unsafe housing (mold, exposure, unclean)
+Unsheltered (tent, park, vacant lot)
+Unsuccessful API requests
+Unsupported action
+Untitled Observation
+Update Directory
+Update Pharmacy
+Update Users Weno Location ID
+Update appointment status
+Update existing records
+Updated
+Upload cancelled.
+Upload failed: %s
+Upload to Clinic
+Uploads
+Use Config Notifications to setup SMTP. Setup here is work in progress for a secondary client. Sending Email reminders is still available from Reminder Actions dropdown. However, the Message Template and Email Notification Hours below are used for reminders.
+Use Dialog
+Use Location
+Use Location Assignment
+Use MDHT External Validation Service
+Use Patients on-record E-Mail for new Portal Login Username
+Use Primary
+Use RxLog
+Use Server Defaults (Display off)
+Use contact email when creating portal credentials.
+Use of Patient\'s Date of Birth
+Use of Patient\'s Ethnicity
+Use of Patient\'s Gender Identity
+Use of Patient\'s Health Status Assessments
+Use of Patient\'s Language
+Use of Patient\'s Race
+Use of Patient\'s Sex
+Use of Patient\'s Sexual Orientation
+Use of Patient\'s Social Determinants of Health
+Use the fee sheet to charge for services or products. 
+Use this section to download Weno Pharmacy Directory and Weno Sync Report
+Use this to create a new empty template for use with built in editor.
+Used on the login screen
+Used to cut and paste Questionnaire or LHC Form json. Will then convert and import to questionnaire repository.
+Used when payment_gateway is Rainforest.
+Used when payment_gateway is Rainforest. Stored encrypted
+User 
+User Assignments
+User Debug PHP Reporting Options
+User Permissions
+User Service Permissions
+User Setting Subsection
+User Type
+User deleted document
+User has no active TeleHealth enrollment and registration is skipped
+User optional from credential dialog.
+User optional persists the options checkbox state in the credential dialog to allow deciding on a patient by patient basis.
+User permissions have been saved successfully!
+User permissions saved and primary user designation cleared successfully!
+Username Block Notification For OpenEMR Admin
+Utilities
+Utilities (Power, water)
+Validate Message Documents
+Validate Primary Admin
+Validating document for errors
+Validation Request failed
+Validation report
+Value cannot be negative
+Value given to this field when a new record is created
+Value is outside acceptable range
+Value is outside typical clinical range
+Value is required for the selected observation
+Value is required for the selected sub-observation
+Verification
+Verify Address
+Verify Message Received
+Verify from your Weno account if any are expected.
+Verify the server administrator has properly setup the FHIR connector information in the Admin -> Config -> Connectors settings page
+Verify you have addressed these common errors
+Verify your system is properly handling CORS requests if your domain and FHIR host server are not the same
+Version 2.x is widely used in the healthcare industry and openEMR uses HL7 version 2.3 
+Version of the EULA being accepted
+Vertical Band
+Vertical Box
+Very Much
+Very Much Stressed
+Veteran Status
+Victim of a crime
+View / Edit
+View All
+View Processed Document
+View Response
+View fax document
+View, search and access
+Visit Dates
+Visit Family or Friends
+Visual Acuities by Date
+Visual Acuity History
+Vitals Form Max Historical Columns To Display
+Vitals Height and Weight required for patient under 19 yo. Create or add Vitals in an encounter.
+Voice (RingCentral) is not enabled, so call event tracking cannot be registered.
+Voice webhook secret provisioned. Event subscription registration is not yet available.
+Void Checkout and Reopen in Fee Sheet
+Void Claim
+Volume
+V{{One letter abbreviation for Vision}}
+Warn if not enough data to graph
+Warning: this logs every SELECT, so the audit log grows with query volume and can become far larger than the clinical data it describes.
+We are in Test Mode and no reminders will be sent. This test will check what reminders will be sent in when running Live Mode.
+We are requesting $60/yr to support future development
+Webhook secret provisioning failed. See server log.
+Weight: 
+Welcome to the module
+Welcome | Prior Authorization Manager
+Weno Alt
+Weno Alt Pharmacy
+Weno Config
+Weno Debug Information
+Weno Download Log Viewer
+Weno Downloads
+Weno Downloads Management
+Weno Facility Setup
+Weno Location ID
+Weno Pharmacy
+Weno Prescribed Drug
+Weno Prescriber Email
+Weno Prescriber Email for
+Weno Prescriber Email is missing. Go to User Settings Weno Tab and enter your Weno User Email
+Weno Prescriber ID
+Weno Prescriber Password
+Weno Prescriber Password decryption failed
+Weno Prescriber Password for
+Weno Prescriber Password is missing
+Weno Prescriber email address is missing. Go to User settings Email to add Weno Prescriber's weno registered email address
+Weno Prescriber email address is missing. Go to User settings Weno tab to add Weno Prescriber's weno registered email address
+Weno Prescription Log
+Weno Primary Admin Password
+Weno Primary Admin Section
+Weno Primary Admin Username
+Weno Primary Encryption Key
+Weno Primary Pharmacy
+Weno Primary Pharmacy not set. From Patient's Demographics Choices assign Primary Pharmacy
+Weno RxLog
+Weno Setup
+Weno User
+Weno User ID
+Weno User Id missing.
+Weno User Id missing. Select Admin then Users and edit the user to add Weno User Id
+Weno User id Uxxxx
+Weno Users
+Weno eRx Service Admin Setup
+Weno eRx Service Setup
+Weno eRx Service is not configured. Please configure Weno eRx Service in the Weno Module Setup.
+Weno eRx Tools
+Weno eRx is not fully configured. Details
+Weno pharmacy selector diagnostics
+What is the highest level of education that you have completed?
+What is the total income for all your family in the past year? (This will help us know if you are eligible for benefits)
+What is your current work situation? Check all that apply.
+What is your housing situation today?
+When a Weno eRx Prescriber, please enter your Weno User ID here or in your Users setting. If you are not a Weno Prescriber, please leave this field blank.
+When enabled (default), a successful login (staff, portal, or MFA) zeros the per-IP failed-login counter for that IP. This matches the pre-8.5.0 behaviour and is convenient in shared-NAT environments where legitimate users would otherwise accumulate strikes across a day. When disabled, the per-IP counter decays only via its own time-based reset window, so a valid login on one account cannot clear an in-progress lockout being accumulated against another account from the same IP — recommended for higher-security deployments. If disabled AND the reset window is also 0 (never auto-reset), an administrator can clear both per-IP counters via the IP Tracker report (Reports → Administrative → IP Tracker).
+When launching outside the EHR, ask for a patient to be selected at launch time.
+When service should occur
+Where C-CDA documents can be generated: the Care Coordination module, the patient portal, or both.
+White list files by MIME content type
+Width of primary logo compared to the container
+Width of secondary logo compared to the container
+Will attempt to save using backed up answers.
+With Canceled Appointments
+Within the past 12 months, the food we bought just didn't last and we didn't have money to get more
+Within the past 12 months, we worried whether our food would run out before we got money to buy more
+Witness of a crime or accident
+Work or Meetings
+Working and may take a few minutes to finish.
+Would you like to be contacted with resources or assistance?
+Would you like to start a telehealth session with this patient (This will create an encounter if one does not exist)?
+Wrong type require Questionnaire
+Yes continue
+Yes, all the time
+Yes, by email
+Yes, by phone
+Yes, by portal message
+Yes, during the day
+You are already in a conference session.  Please hangup the current call to start a new telehealth session
+You are the current primary user. You can manage all settings.
+You can add Previous Names after saving the new patient.
+You have been sent an email from Paypal with your subscription information
+You have granted medical information permissions. Ensure proper HIPAA authorization forms are completed and on file.
+You may also forward to a new fax number if enabled.
+You may edit name to shorten to be more understandable.
+You must accept the EULA to proceed with route creation
+You must be in a patients Chart to enter this information
+You must enter valid FHIR Questionnaire JSON.
+You will be automatically redirected to Demographics. You may make the necessary corrections and navigate to Ensora again.
+You will need Administrator privileges to setup the Ensora service and has to be setup in conjunction with technical support from the Ensora eRx service
+Your SignalWire API Token
+Your SignalWire Project ID (UUID format)
+Your SignalWire Space URL (without https://)
+Your SignalWire fax number in E.164 format
+Your Subscription ID / Profile ID is the following
+Your Weno Prescriber Password fails decryption. Go to User Settings Weno Tab and reenter your Weno User Password
+Your Weno Prescriber Password is missing. Go to User Settings Weno Tab and enter your Weno User Password
+Your account number with the laboratory
+Your app has been registered!
+Your clinic asks for your attention.
+Your credentials have been setup and saved in the Telehealth configuration
+Your files will download as a zip file
+Your message was successfully sent
+Your payment subscription has been created.
+Your total score is 
+Your unique customer account identifier
+Zip Code Missing, From the Patient Chart select Demographics select Contact select Postal Code.
+Zip file size exceeds the maximum allowed size
+admin
+allergies/adverse reactions
+appointments
+billing to 
+cannot be calculated by the eCQM calculation engine. Remove it from the selection and try again.
+care plan information including treatment information and notes
+care team information including practitioners, organizations, persons, and related individuals
+client
+clinical and non-clinical documents
+companies, facilities, insurances, and other organizations
+compile dir does not exist
+compile dir not writeable
+conditions including health concerns, problems, and encounter diagnoses
+configured
+dental issues
+diagnostic reports including laboratory,cardiology,radiology, and pathology reports
+drug information related to planned and prescribed medication history
+e-Prescribe
+employer information
+encounter information
+etherFAX
+example.signalwire.com
+existing person
+existing persons
+fax
+fax operation failed
+has already been uploaded.
+illegal Action
+immunization history
+implantable medical device records
+insurance company information including name, contact information, and address
+insurance information including coverage, policy, and subscriber information
+insurance type information including name, contact information, and address
+intended objective(s) for a patient, group, or organizational care
+last on
+lists including problem lists, medication lists, and allergy lists
+locations associated with a patient, provider, or organization
+log
+medical problems including health concerns, problems, and encounter diagnoses
+medical records for this resource type
+messages including patient messages, clinical messages, and administrative messages
+never
+next run
+observations including laboratory,vitals, and social history records
+of Units
+on the following resources
+or Register New
+or service is not found.
+pages
+patient basic demographics including names,communication preferences,race,ethnicity,birth sex,previous names and other administrative information
+pharmacies
+phiMail default force message receipt confirmation to on
+planned and prescribed medication history including self-reported medications
+practitioner role for a practitioner (including speciality, location, contact information)
+prescriptions including medication, dosage, and instructions
+prescriptions.
+procedures
+product information including name, description, and manufacturer
+provenance information (including person(s) responsible for the information, author organizations, and transmitter organizations)
+result(s) found.
+service is not found.
+surgery information including procedure, date, and location
+terms of use.
+this measure cannot be calculated by the eCQM calculation engine
+to Documents
+to the Documents Onsite Portal Patient category.
+transactions including referrals, billing, legal, patient and physician requests
+unregistered
+updated
+user information including user name, email, and roles
+value set records
+version information including version number, release date, and release notes
+vital signs including height, weight, blood pressure, and heart rate
+with Mismatched Components
+your php.ini
+yyyy-mm-dd HH:MM End date for reason
+yyyy-mm-dd HH:MM Start date for reason
+yyyy-mm-dd HH:MM date of onset, surgery or start of medication
+yyyy-mm-dd HH:MM date of recovery or end of medication
+—
